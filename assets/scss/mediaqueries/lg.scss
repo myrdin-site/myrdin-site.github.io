@@ -1,0 +1,23 @@
+@media (min-width: 1024px) {
+  .banner {
+    max-width: $container;
+  }
+  .nav--list {
+    max-width: $container;
+    padding: 1rem 0;
+    margin: auto;
+  }
+  .hero {
+    position: relative;
+    max-width: $container;
+    .hero--loup {
+     position: absolute;
+     display: block;
+     left: -8.3rem;
+     top: 2.2rem;
+   }
+ }
+ .carousel img {
+   width: 22vw;
+ }
+}

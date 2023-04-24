@@ -1,0 +1,52 @@
+.hero {
+  min-height: 8rem;
+  margin-left: 0.4rem;
+  .hero--subtitle {
+    text-transform: uppercase;
+    font-size: 1rem;
+    padding: 1rem 0;
+  }
+  .hero--place {
+    padding-bottom: 1rem;
+  }
+
+  .hero--link-program {
+    display: inline-block;
+    text-transform: uppercase;
+    padding: .4rem;
+    margin-bottom: 1rem;
+    background-color: $banner-text;
+    color: $banner-bg;
+    font-size: .8rem;
+    &:hover{
+      color: $banner-text;
+      background-color: $banner-bg;
+    }
+  }
+  .hero--link-support {
+    display: block;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin-bottom: 1rem;
+    font-size: .8rem;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  .hero--loup {
+    display: none;
+    height: 6rem;
+    width: auto;
+    border-radius: 50%;
+  }
+  .banner--img {
+    display: none;
+    width: 100%;
+  }
+
+  .banner--img-mobile {
+    margin: auto;
+    width: 92vw;
+  }
+}
+

@@ -1,0 +1,13 @@
+  <div class="carousel">
+
+ {{ range where .Site.RegularPages "Section" "artistes" }}
+ <div class="carousel--item">
+   <a href="{{ .RelPermalink }}">
+  {{ with .Params.cover }}
+  <img src="{{ . }}" alt="" />
+  {{ end }}
+  <h2>{{ .Title }}</h2>
+  </a>
+ </div>
+{{ end }}
+  </div>

@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    name="description"
+    content="Festival de Claviers à Saint Rivoal dans le Finistère"
+  />
+  <!--Accessible slick-->
+  <!-- Add the core slick.min.css -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/slick.min.css">
+
+<!-- Add ONE of the theme files (accessible version or original) -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/@accessible360/accessible-slick@1.0.1/slick/accessible-slick-theme.min.css">
+  <!--SASS Configuration-->
+  {{ $sass := resources.Get "scss/main.scss" }} {{ $style := $sass |
+  resources.ToCSS (dict "enableSourceMap" true) | resources.Fingerprint }}
+  <link
+    rel="stylesheet"
+    href="{{ $style.Permalink }}"
+    integrity="{{ $style.Data.Integrity }}"
+  />
+  <!--Format pages titles-->
+  {{ $title := print .Title " | " .Site.Title }} {{ if .IsHome }}{{ $title =
+  .Site.Title }}{{ end }}
+  <title>{{ $title }}</title>
+</head>
+

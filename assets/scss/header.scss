@@ -1,0 +1,71 @@
+// Skip link
+.skip--link {
+  display: inline-block;
+  background: white;
+  color: black;
+  padding: 0.8em;
+  position: absolute;
+  left: -99999rem;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-bottom-right-radius: 11.5px;
+  z-index: 100;
+  &:focus {
+    left: 0;
+  }
+}
+
+header {
+  border-bottom: 1px solid black;
+  background-color: $banner-bg;
+  z-index: 1;
+  a {
+    color: $banner-text;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Banner
+.banner {
+  max-width: 96vw;
+  margin: auto;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner--title-link {
+  display: block;
+}
+
+.banner--title,
+.banner--contact {
+  display: flex;
+  align-items: center;
+}
+
+.banner--title {
+  h1 {
+    font-size: 1rem;
+    padding-left: 0.4rem;
+  }
+}
+
+.banner--icon-container {
+  min-width: 2rem;
+  min-height: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 50%;
+  background-color: $banner-text;
+}
+
+.banner--icon {
+  width: 1.2rem;
+  height: 1.2rem;
+}

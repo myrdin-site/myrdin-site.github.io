@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr'
+title = 'Claviers Dans Les Monts'
+theme = 'cdlm'
+defaultContentLanguage = 'fr'

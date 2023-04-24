@@ -1,0 +1,38 @@
+@media (min-width: 640px) {
+  .hidden--mobile {
+    display: block;
+  }
+
+  .banner--contact {
+    display: flex;
+  }
+
+  .hidden--desktop {
+    display: none;
+  }
+
+  .banner--contact-text {
+    padding-left: 0.4rem;
+  }
+
+  .nav--list {
+    display: flex;
+    gap: 1rem;
+    padding: 0.6rem 0;
+    margin-left: 1rem;
+  }
+  .hero {
+    margin: auto;
+    max-width: 94vw;
+    .banner--img {
+      display: block;
+    }
+    .banner--img-mobile {
+      display: none;
+    }
+  }
+}
+
+.carousel img {
+  width: 68vw;
+}

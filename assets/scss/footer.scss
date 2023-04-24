@@ -1,0 +1,30 @@
+footer {
+  margin-top: 1.6rem;
+  border-top: 1px solid $body-text;
+  background-color: white;
+}
+
+.footer--container {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  display: flex;
+  gap: 2rem;
+  width: $container;
+  margin: auto;
+  align-items: flex-start;
+  a {
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  ul {
+   li {
+     list-style-type: none;
+     text-decoration: underline;
+     &:hover{
+       text-decoration: none;
+     }
+   }
+ }
+}
