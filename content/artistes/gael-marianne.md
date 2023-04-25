@@ -21,8 +21,11 @@ chanteur avec qui ça le fait de s'essayer à créer des trucs, on verra bien ce
 Il chantonne depuis longtemps, dans la voiture sur la route des vacances, en famille,
 des chansons en français. Écoute à l'adolescence Barbara jusqu'à plus soif, Brel et quelques autres. S'égare
 du côté de Céline Dion et Lara Fabian en hurlant « Je t'aiiiiiiime » sur les rochers de son Finistère natal.
+
 Papillonne dans des chorales. Choisit le théâtre pour métier. Découvre les polyphonies occitanes puis
-corses et parallèlement développe une passion dévorante pour le chanteur Pierre Lapointe. Rencontre la
+corses et parallèlement développe une passion dévorante pour le chanteur Pierre Lapointe. 
+
+Rencontre la
 pianiste avec qui ça le fait de s'essayer à créer des trucs en même temps qu'il entame une troisième
 psychothérapie, se résout à accepter qu'il ne sera jamais Céline Dion, décide de faire la paix avec sa
 propension à la mélancolie et commence à écrire des textes de chansons. Les propose à la pianiste. On
