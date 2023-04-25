@@ -17,6 +17,9 @@
      top: 2.2rem;
    }
  }
+ .index--content {
+   max-width: $container;
+ }
  .carousel img {
    width: 22vw;
  }

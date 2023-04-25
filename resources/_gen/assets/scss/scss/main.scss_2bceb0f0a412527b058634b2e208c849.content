@@ -164,9 +164,9 @@ main img {
   .hero .hero--subtitle {
     text-transform: uppercase;
     font-size: 1.2rem;
-    padding: 1rem 0; }
+    margin-top: 2rem; }
   .hero .hero--place {
-    padding-bottom: 1rem;
+    padding-bottom: 2rem;
     font-size: 1.2rem; }
   .hero .hero--link-program {
     display: inline-block;
@@ -184,7 +184,7 @@ main img {
     display: block;
     text-transform: uppercase;
     text-decoration: underline;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     font-size: 1rem; }
     .hero .hero--link-support:hover {
       text-decoration: none; }
@@ -200,10 +200,18 @@ main img {
     margin: auto;
     width: 92vw; }
 
+.index--content h2 {
+  text-transform: uppercase;
+  padding-top: 2rem;
+  text-align: center; }
+
 footer {
   margin-top: 1.6rem;
   border-top: 1px solid #220d00;
   background-color: white; }
+
+svg {
+  vertical-align: middle; }
 
 .footer--container {
   padding-top: 1.2rem;
@@ -228,7 +236,7 @@ footer {
   max-width: 70vw;
   margin: auto; }
   .carousel img {
-    width: 20vw;
+    width: 70vw;
     height: auto;
     margin: auto; }
   .carousel h2 {
@@ -265,10 +273,12 @@ footer {
     .hero .banner--img {
       display: block; }
     .hero .banner--img-mobile {
-      display: none; } }
-
-.carousel img {
-  width: 68vw; }
+      display: none; }
+  .carousel img {
+    width: 68vw; }
+  .index--content {
+    margin: auto;
+    max-width: 94vw; } }
 
 @media (min-width: 768px) {
   .carousel img {
@@ -289,5 +299,7 @@ footer {
       display: block;
       left: -8.3rem;
       top: 2.2rem; }
+  .index--content {
+    max-width: 70vw; }
   .carousel img {
     width: 22vw; } }
