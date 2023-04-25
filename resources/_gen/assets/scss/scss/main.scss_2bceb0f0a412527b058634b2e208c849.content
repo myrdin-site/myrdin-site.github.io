@@ -252,6 +252,11 @@ svg {
     padding-top: 1rem; }
   .container--single a {
     text-decoration: underline; }
+  .container--single .container--single-content {
+    width: 40vw; }
+    .container--single .container--single-content img {
+      width: 75%;
+      border: 1px solid #220d00; }
 
 @media (min-width: 640px) {
   .hidden--mobile {
