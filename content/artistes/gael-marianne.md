@@ -2,7 +2,9 @@
 title: Gaël et Marianne
 cover: /img/gael-marianne.png
 ---
-## Marianne Beau-Piriou
+## Samedi 17 Juin - 16h30 - Jardins de l'écomusée
+
+### Marianne Beau-Piriou
 
 Elle commence le piano classique à 5 ans, puis plus tard saxophone, tuba, un faux
 détour par le violon, conservatoires, fac de musique...
@@ -16,7 +18,7 @@ chanteur avec qui ça le fait de s'essayer à créer des trucs, on verra bien ce
 
 ![](/img/gm-7375-légère-2.jpg)
 
-## Gaël Le Guillou-Castel
+### Gaël Le Guillou-Castel
 
 Il chantonne depuis longtemps, dans la voiture sur la route des vacances, en famille,
 des chansons en français. Écoute à l'adolescence Barbara jusqu'à plus soif, Brel et quelques autres. S'égare
