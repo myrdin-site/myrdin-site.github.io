@@ -3,3 +3,7 @@ languageCode = 'fr'
 title = 'Claviers Dans Les Monts'
 theme = 'cdlm'
 defaultContentLanguage = 'fr'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

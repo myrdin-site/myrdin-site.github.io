@@ -75,3 +75,4 @@ collections:
     fields:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: "Image d'accroche", name: "cover", widget: "image" }
+      - { label: 'Contenu', name: 'body', widget: 'markdown' }
