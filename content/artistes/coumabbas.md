@@ -7,7 +7,7 @@ cover: /img/coumabbas.png
 ### Duo Coumabbas
 
 \
-Un accordéon et un piano, deux sensibilités complices, un goût commun pour les musiques populaires, le rythme, la danse et la transe : ce jeune duo acoustique, formé il y a deux ans, nous entraîne dans un beau voyage, des standards du jazz aux rives des musiques latines, d’*El Cumbanchero*(Rafael Hernández Marín) à *María Cervantes* (Noro Morales), *Danzón n°2*(Arturo Márquez)…\
+Un accordéon et un piano, deux sensibilités complices, un goût commun pour les musiques populaires, le rythme, la danse et la transe : ce jeune duo acoustique, formé il y a deux ans, nous entraîne dans un beau voyage, des standards du jazz aux rives des musiques latines, d’*El Cumbanchero* (Rafael Hernández Marín) à *María Cervantes* (Noro Morales), *Danzón n°2* (Arturo Márquez)…\
 Depuis leur rencontre au Conservatoire de Saint-Brieuc en 2012, Benjamin et Maryll ont poursuivi leur travail sur les musiques traditionnelles et du monde, le jazz, les musique afro-cubaines, sans jamais perdre de vue ce qui les réunit : cette joie de l’improvisation qui n’oublie pas la rigueur et le placement rythmiques, ce sens de la verticalité conjugué à la grâce des mélodies. Les deux instruments polyphoniques se font percussifs et caressants, doux et puissants… La mise en musique d’une belle rencontre et d’une amitié lumineuse ! 
 
 \
