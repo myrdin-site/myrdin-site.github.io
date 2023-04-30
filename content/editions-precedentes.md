@@ -11,15 +11,13 @@ Le Festival s'est parfaitement incorporé aux jardins de l'écomusée du village
 
 ![](/img/arsys-copie.jpeg)
 
-![](/img/succès.jpeg)
-
 ![](/img/marcia.jpeg)
 
-# Juin 2022 - 2e édition 
+# Juin 2022 - 2e édition
 
 Ce fut une édition aux accents "baroques" avec la participation de l'ensemble Léviathan pour un programme anglais du 17 et 18e siècles intitulé "How sweet is the air". Dirigé par Lucile Tessier, l'ensemble comprend Eugénie Lefebvre (soprano), Clément Geoffroy (clavecin), Julie Dessaint (viole de gambe). Le public a été conquis par la virtuosité des artistes, leur présence et un programme sensible et peu connu. 
 
-![](/img/léviathan.jpg)
+![](/img/léviathan.jpg)
 
 Nous avons eu la chance d'accueillir pour un récital romantique le pianiste Ferenc Vizi (Chopin, Liszt, Schubert). Le duo Caroline Arnaud (soprano) et Étienne Galetier (Théorbe) pour un concert poétique autour de "La Bergère Légère". 
 
@@ -27,4 +25,4 @@ Nous recevions également l'ensemble Ma Non Troppo pour un concert en mouvement 
 
 Deux pianistes - Juliette Zanon et Daphné Ackermann interprétaient également un répertoire à 4 mains (*La fantaisie* de Schubert) sur un Erard 1840 installé directement dans les jardins de l'écomusée.
 
-![](/img/daphné-et-juliette2.jpg)
+![](/img/daphné-et-juliette2.jpg)
