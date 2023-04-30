@@ -1,6 +1,7 @@
 ---
 title: Collectif Aurita
 cover: /img/collectif-aurita.png
+weight: 4
 ---
 ## Samedi 17 Juin - 20H30 - Jardins de l'écomusée 
 
@@ -11,8 +12,6 @@ cover: /img/collectif-aurita.png
 **Spectacle tout public** prévu pour l'espace extérieur et intérieur, *Étoffer la Nuit* visite la dimension du rêve comme élément fondateur de nos vies éveillées. Réserve inépuisable de possibles, le rêve peut être perçu comme une prescience merveilleuse où nous sommes, en tant que rêveur, le dépositaire, le gardien et l'instrumentiste. Nous vous invitons à la lisière entre le monde du sommeil et l'état d’éveil, là où le moment précis de l'endormissement opère comme une bascule. 
 
 Bonne nuit.
-
- 
 
 ![](/img/suspension.jpg)
 
@@ -45,6 +44,3 @@ Très attiré par ses sonorités, je commence la clarinette à l'âge de 7 ans. 
 Thaïlande. Friand des collaborations, je travaille avec le quatuor VADÉ (chants polyphoniques bulgare), MiRET (producteur catalan), MAMAZU (producteur japonais), toujours à la recherche de nouvelles esthétiques. En parallèle je continue de me former aux musiques de l’est et tsiganes via des stages immersifs en
 Roumanie et en Bulgarie. Je m’investis également dans le domaine du spectacle vivant pour lequel je compose et joue. Le cirque, à travers la CIE SACORDE que je co-fonde en 2017, la Cie LE GRAND O, mais aussila danse contemporaine ou encore le théâtre de marionnette avec la compagnie allemande DUNDU, GIANT OF LIFE.
 En 2020 je sors mon second album et crée le ALIZARINA QUARTET, soutenu par les SMAC La Carène et le Run Ar Puns. J'entame également la composition pour K PAR K, la nouvelle création de la CIE SACORDE et je prête une oreille attentive à la nouvelle création du collectif Aurita: ÉTOFFER LA NUIT.
-
-* Danielle Le Pierrès / Regard extérieur, maquillage
-* Thibault Daniellou / Régie technique

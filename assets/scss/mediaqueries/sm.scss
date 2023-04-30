@@ -17,7 +17,7 @@
 
   .nav--list {
     display: flex;
-    gap: 1rem;
+    gap: 2.5rem;
     padding: 0.6rem 0;
     margin-left: 1rem;
   }
@@ -26,6 +26,9 @@
     max-width: 94vw;
     .banner--img {
       display: block;
+      position: relative;
+      width: 100vw;
+      left: calc(-50vw + 50%);
     }
     .banner--img-mobile {
       display: none;

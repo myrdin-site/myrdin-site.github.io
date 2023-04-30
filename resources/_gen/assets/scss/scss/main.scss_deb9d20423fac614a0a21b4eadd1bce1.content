@@ -28,7 +28,7 @@ header {
       text-decoration: underline; }
 
 .banner {
-  max-width: 96vw;
+  max-width: 84vw;
   margin: auto;
   padding-top: 0.8rem;
   padding-bottom: 0.8rem;
@@ -43,7 +43,7 @@ header {
   display: flex;
   align-items: center; }
 
-.banner--title h1 {
+.banner--contact-text {
   font-size: 1rem;
   padding-left: 0.4rem; }
 
@@ -163,27 +163,29 @@ main img {
   margin-left: 0.4rem; }
   .hero .hero--subtitle {
     text-transform: uppercase;
-    font-size: 1rem;
-    padding: 1rem 0; }
+    font-size: 1.2rem;
+    margin-top: 2rem; }
   .hero .hero--place {
-    padding-bottom: 1rem; }
+    padding-bottom: 2rem;
+    font-size: 1.2rem; }
   .hero .hero--link-program {
     display: inline-block;
     text-transform: uppercase;
-    padding: .4rem;
+    padding: .6rem;
     margin-bottom: 1rem;
-    background-color: #aab1b4;
+    background-color: white;
     color: #171e24;
-    font-size: .8rem; }
+    font-size: 1rem;
+    border: 1px solid #171e24; }
     .hero .hero--link-program:hover {
-      color: #aab1b4;
+      color: white;
       background-color: #171e24; }
   .hero .hero--link-support {
     display: block;
     text-transform: uppercase;
     text-decoration: underline;
-    margin-bottom: 1rem;
-    font-size: .8rem; }
+    margin-bottom: 2rem;
+    font-size: 1rem; }
     .hero .hero--link-support:hover {
       text-decoration: none; }
   .hero .hero--loup {
@@ -198,10 +200,18 @@ main img {
     margin: auto;
     width: 92vw; }
 
+.index--content h2 {
+  text-transform: uppercase;
+  padding-top: 2rem;
+  text-align: center; }
+
 footer {
   margin-top: 1.6rem;
   border-top: 1px solid #220d00;
   background-color: white; }
+
+svg {
+  vertical-align: middle; }
 
 .footer--container {
   padding-top: 1.2rem;
@@ -226,22 +236,29 @@ footer {
   max-width: 70vw;
   margin: auto; }
   .carousel img {
-    width: 20vw;
+    width: 70vw;
     height: auto;
     margin: auto; }
   .carousel h2 {
     text-align: center; }
 
 .container--single {
-  width: 70vw;
+  width: 90vw;
   margin: auto;
   padding-top: 1.2rem; }
   .container--single h1, .container--single h2, .container--single h3, .container--single h4, .container--single h5, .container--single h6 {
     padding-top: 1.2rem; }
   .container--single p {
     padding-top: 1rem; }
+  .container--single ul {
+    padding-top: 1rem; }
   .container--single a {
     text-decoration: underline; }
+  .container--single .container--single-content {
+    width: 90vw; }
+    .container--single .container--single-content img {
+      width: 95%;
+      border: 1px solid #220d00; }
 
 @media (min-width: 640px) {
   .hidden--mobile {
@@ -254,19 +271,24 @@ footer {
     padding-left: 0.4rem; }
   .nav--list {
     display: flex;
-    gap: 1rem;
+    gap: 2.5rem;
     padding: 0.6rem 0;
     margin-left: 1rem; }
   .hero {
     margin: auto;
     max-width: 94vw; }
     .hero .banner--img {
-      display: block; }
+      display: block;
+      position: relative;
+      width: 100vw;
+      left: calc(-50vw + 50%); }
     .hero .banner--img-mobile {
-      display: none; } }
-
-.carousel img {
-  width: 68vw; }
+      display: none; }
+  .carousel img {
+    width: 68vw; }
+  .index--content {
+    margin: auto;
+    max-width: 94vw; } }
 
 @media (min-width: 768px) {
   .carousel img {
@@ -287,7 +309,15 @@ footer {
       display: block;
       left: -8.3rem;
       top: 2.2rem; }
+  .index--content {
+    max-width: 70vw; }
   .carousel img {
-    width: 22vw; } }
+    width: 22vw; }
+  .container--single {
+    width: 70vw; }
+    .container--single .container--single-content {
+      width: 60vw; }
+      .container--single .container--single-content img {
+        width: 75%; } }
 
 /*# sourceMappingURL=main.css.map */

@@ -1,5 +1,5 @@
 .container--single {
-  width: $container;
+  width: 90vw;
   margin: auto;
   padding-top: 1.2rem;
   h1, h2, h3, h4, h5, h6 {
@@ -8,13 +8,16 @@
   p {
     padding-top: 1rem;
   }
+  ul {
+    padding-top: 1rem;
+  }
   a {
     text-decoration: underline;
   }
   .container--single-content {
-    width: 40vw;
+    width: 90vw;
     img {
-      width: 75%;
+      width: 95%;
       border: 1px solid #220d00;
     }
   }

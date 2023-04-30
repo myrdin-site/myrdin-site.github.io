@@ -23,4 +23,14 @@
  .carousel img {
    width: 22vw;
  }
+ .container--single {
+   width: $container;
+  .container--single-content {
+   width: 60vw;
+   img {
+     width: 75%;
+   }
+ }
+ }
+ 
 }

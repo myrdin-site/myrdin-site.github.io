@@ -1,6 +1,7 @@
 ---
 title: Benjamin Coum et Maryll Abbas
 cover: /img/coumabbas.png
+weight: 3
 ---
 ## Samedi 17 Juin - 18H - Jardins de l'écomusée
 

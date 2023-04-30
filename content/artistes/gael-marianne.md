@@ -1,6 +1,7 @@
 ---
 title: Gaël et Marianne
 cover: /img/gael-marianne.png
+weight: 2
 ---
 ## Samedi 17 Juin - 16h30 - Jardins de l'écomusée
 

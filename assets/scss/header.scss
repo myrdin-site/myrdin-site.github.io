@@ -29,7 +29,7 @@ header {
 
 // Banner
 .banner {
-  max-width: 96vw;
+  max-width: 84vw;
   margin: auto;
   padding-top: 0.8rem;
   padding-bottom: 0.8rem;
@@ -47,11 +47,9 @@ header {
   align-items: center;
 }
 
-.banner--title {
-  h1 {
+.banner--contact-text {
     font-size: 1rem;
     padding-left: 0.4rem;
-  }
 }
 
 .banner--icon-container {

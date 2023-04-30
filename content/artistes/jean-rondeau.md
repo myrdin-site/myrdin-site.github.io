@@ -1,6 +1,7 @@
 ---
 title: Jean Rondeau
 cover: /img/jean-rondeau.png
+weight: 1
 ---
 ## Vendredi 16 Juin - 20H30 - Église de Saint-Rivoal
 
