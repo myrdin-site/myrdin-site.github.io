@@ -7,7 +7,7 @@ weight: 1
 
 ### Concert J-S Bach, *Variations Goldberg* et autres surprises...
 
-### \*réservation obligatoire
+**Réservation obligatoire**
 
 Jean Rondeau est claveciniste, pianiste et compositeur multi-récompensé. Musicien complet aux multiples facettes il est fondateur d'un ensemble baroque et d'un quartet de jazz, il confond les styles à travers ses nombreuses collaborations comme instrumentiste et compositeur.
 
@@ -19,4 +19,4 @@ Jean Rondeau commence alors à se produire en tant que soliste dans les plus gra
 
 **Jean Rondeau est lauréat du Concours International de Clavecin de Bruges, qu'il remporte à vingt-et-un ans seulement. Considéré comme le musicien le plus prometteur de l’Union Européenne par EUBO Development Trust, il cultive la diversité des genres (baroque, classique et jazz) et s’intéresse aux rapports entre les différentes cultures musicales. Sa discographie comprend trois albums solo consacrés aux œuvres de Jean-Sébastien BACH**[](https://www.francemusique.fr/personne/johann-sebastian-bach)**, Jean-Philippe Rameau parus chez Erato. Il est également l'auteur de la musique du film allemand Paula réalisé par Christian Schwochow, sorti en 2016.**
 
-**Pour en savoir plus sur l'artiste suivez le lien Arte :** https://www.arte.tv/fr/videos/108127-000-A/jean-rondeau-behind-bach/
+**Pour en savoir plus sur l'artiste suivez [le lien Arte](https://www.arte.tv/fr/videos/108127-000-A/jean-rondeau-behind-bach/).**
