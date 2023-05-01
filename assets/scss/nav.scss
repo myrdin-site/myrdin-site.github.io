@@ -56,3 +56,10 @@
     transition: transform 0.25s ease-out;
   }
 }
+
+.nav--socials > ul {
+  display: flex;
+  li {
+    list-style-type: none;
+  }
+}

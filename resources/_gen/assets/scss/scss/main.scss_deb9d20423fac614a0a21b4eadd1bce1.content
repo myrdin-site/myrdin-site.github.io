@@ -158,6 +158,11 @@ li {
     transform-origin: bottom right;
     transition: transform 0.25s ease-out; }
 
+.nav--socials > ul {
+  display: flex; }
+  .nav--socials > ul li {
+    list-style-type: none; }
+
 main img {
   border: 1px solid #220d00; }
 
@@ -302,7 +307,7 @@ svg {
 @media (min-width: 1024px) {
   .banner {
     max-width: 70vw; }
-  .nav--list {
+  .nav--container-list {
     max-width: 70vw;
     padding: 1rem 0;
     margin: auto; }
