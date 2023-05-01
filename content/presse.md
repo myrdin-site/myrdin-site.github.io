@@ -3,9 +3,9 @@ title: Presse
 menu: main
 weight: 5
 ---
-## Édition 2022
-
 ![](/img/screenshot-2023-05-01-at-16.15.05.png)
+
+## Édition 2022
 
 * [Le Télégramme - 30/05/2022](https://www.letelegramme.fr/finistere/saint-rivoal/clavier-dans-les-monts-une-edition-pleine-de-romantisme-et-de-poesie-du-17-au-19-juin-a-saint-rivoal-30-05-2022-13048194.php)
 * [Le Télégramme -
