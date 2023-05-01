@@ -5,8 +5,6 @@ weight: 1
 ---
 ## Vendredi 16 Juin - 20H30 - Église de Saint-Rivoal
 
-## Jean Rondeau
-
 ### Concert J-S Bach, *Variations Goldberg* et autres surprises...
 
 ### \*réservation obligatoire
