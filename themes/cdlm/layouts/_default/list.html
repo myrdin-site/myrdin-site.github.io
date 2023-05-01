@@ -1,18 +1,18 @@
 {{ define "main" }}
-  <div class="container--single">
-    <div class="container--single-content">
-  <div>
+<div class="container--single">
+  <div class="container--single-content">
+    <div>
       <h1>{{ .Title }}</h1>
-    {{ .Content }}
-  </div>
-  <ul>
-    <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
+    </div>
+    <h2>Édition 2023</h2>
+    <ul>
+      {{ range .Pages }}
       <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
       </li>
-    {{ end }}
-  </ul>
+      {{ end }}
+    </ul>
+      {{ .Content }}
   </div>
-  </div>
+</div>
 {{ end }}

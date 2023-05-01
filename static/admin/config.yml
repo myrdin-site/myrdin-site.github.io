@@ -5,6 +5,18 @@ locale: "fr"
 media_folder: static/img
 public_folder: /img
 collections:
+  - name: "Cobalt"
+    label: "cobalt"
+    files:
+      - name: "Cobalt"
+        label: "cobalt"
+        file: "content/cobalt.md"
+        create: false
+        editor:
+          preview: false
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "contact"
     label: "contact"
     files:

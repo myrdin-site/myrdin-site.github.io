@@ -105,6 +105,9 @@ main {
 a {
   color: black; }
 
+li {
+  list-style-type: circle; }
+
 .nav--menu {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
   background-color: #fff;
