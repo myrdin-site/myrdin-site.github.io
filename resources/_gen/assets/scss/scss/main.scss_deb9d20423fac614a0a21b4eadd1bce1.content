@@ -276,7 +276,7 @@ svg {
     padding-left: 0.4rem; }
   .nav--list {
     display: flex;
-    gap: 2.5rem;
+    gap: 2rem;
     padding: 0.6rem 0;
     margin-left: 1rem; }
   .hero {
