@@ -19,8 +19,14 @@ Après deux éditions faisant la part belle au piano solo, au “deux pianos”,
 
 L’intégralité des concerts se déroule dans la commune de Saint-Rivoal, entre l’église du bourg et l’écomusée. Quant à l’acoustique de l’église, elle est tout à fait remarquable et un grand nombre d’auditeurs et auditrices se sont réjouis l’an passé de pouvoir profiter d’un moment musical intime, puisque l’église ne contient qu’une centaine de places assises. Le festival est organisé en partenariat avec l’écomusée des Monts d’Arrée, qui met à disposition ses espaces d’accueil au public. C’est aussi dans le cadre magnifique des jardins de l’écomusée que se dérouleront plusieurs concerts en extérieur. Nous proposerons au public de partager un moment convivial le samedi soir autour d’un repas végétarien concocté par une équipe de bénévoles. 
 
+![](/img/juliette.jpg)
+
 ## **Informations importantes :**
 
 Le concert de Jean Rondeau (Vendredi 16 juin, 20H30) est uniquement sur réservation. Veuillez nous contacter par mail ou téléphone afin de réserver vos places.
 
 **Les concerts sont à prix libre ou prix conscient :** notez que le village de Saint-Rivoal ne dispose pas de distributeur automatique - prévoyez à l'avance le nécessaire !
+
+Un repas à prix libre est proposé le samedi soir - prévoyez là encore l'appoint ! La tradition du festival veut que ce soit un repas végétarien partagé, dans les jardins et sous le hangar de l'écomusée.
+
+![](/img/assiette-fleurie.jpg)
