@@ -13,6 +13,9 @@
   }
   a {
     text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
   }
   .container--single-content {
     width: 90vw;

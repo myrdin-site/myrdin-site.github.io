@@ -1,78 +1,126 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-locale: 'fr'
+locale: "fr"
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'mentions-legales'
-    label: 'Mentions légales'
+  - name: "contact"
+    label: "contact"
     files:
-      - name: 'Mentions légales'
-        label: 'Mentions légales'
-        file: 'content/mentions-legales.md'
+      - name: "Contact"
+        label: "contact"
+        file: "content/contactez-nous.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'a-propos'
-    label: 'À propos'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "stage"
+    label: "stage"
     files:
-      - name: 'à propos'
-        label: 'À propos'
-        file: 'content/a-propos.md'
+      - name: "Stage"
+        label: "Stage"
+        file: "content/stage.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'plan-du-site'
-    label: 'plan du site'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "presse"
+    label: "Presse"
     files:
-      - name: 'plan-du-site'
-        label: 'Plan du site'
-        file: 'content/plan-du-site.md'
+      - name: "Presse"
+        label: "Presse"
+        file: "content/presse.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'FAQ'
-    label: 'FAQ'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "mentions-legales"
+    label: "Mentions légales"
     files:
-      - name: 'FAQ'
-        label: 'FAQ'
-        file: 'content/FAQ.md'
+      - name: "Mentions légales"
+        label: "Mentions légales"
+        file: "content/mentions-legales.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'programme'
-    label: 'Programme'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "a-propos"
+    label: "À propos"
     files:
-      - name: 'programme'
-        label: 'Programme'
-        file: 'content/programme.md'
+      - name: "à propos"
+        label: "À propos"
+        file: "content/a-propos.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'editions-precedentes'
-    label: 'Éditions précédentes'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "plan-du-site"
+    label: "plan du site"
     files:
-      - name: 'editions-precedentes'
-        label: 'Éditions précédentes'
-        file: 'content/editions-precedentes.md'
+      - name: "plan-du-site"
+        label: "Plan du site"
+        file: "content/plan-du-site.md"
         create: false
+        editor:
+          preview: false
         fields:
-          - { label: 'Titre', name: 'title', widget: 'string' }
-          - { label: 'Contenu', name: 'body', widget: 'markdown' }
-  - name: 'artistes'
-    label: 'Artistes'
-    folder: 'content/artistes'
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "FAQ"
+    label: "FAQ"
+    files:
+      - name: "FAQ"
+        label: "FAQ"
+        file: "content/FAQ.md"
+        create: false
+        editor:
+          preview: false
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "programme"
+    label: "Programme"
+    files:
+      - name: "programme"
+        label: "Programme"
+        file: "content/programme.md"
+        create: false
+        editor:
+          preview: false
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "editions-precedentes"
+    label: "Éditions précédentes"
+    files:
+      - name: "editions-precedentes"
+        label: "Éditions précédentes"
+        file: "content/editions-precedentes.md"
+        create: false
+        editor:
+        preview: false
+        fields:
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "artistes"
+    label: "Artistes"
+    folder: "content/artistes"
     create: true
-    slug: '{{title}}'
+    slug: "{{title}}"
     editor:
       preview: false
     fields:
-      - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: "Titre", name: "title", widget: "string" }
       - { label: "Image d'accroche", name: "cover", widget: "image" }
-      - { label: 'Contenu', name: 'body', widget: 'markdown' }
+      - { label: "Contenu", name: "body", widget: "markdown" }

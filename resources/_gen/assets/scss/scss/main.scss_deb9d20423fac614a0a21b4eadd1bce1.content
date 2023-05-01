@@ -254,6 +254,8 @@ svg {
     padding-top: 1rem; }
   .container--single a {
     text-decoration: underline; }
+    .container--single a:hover {
+      text-decoration: none; }
   .container--single .container--single-content {
     width: 90vw; }
     .container--single .container--single-content img {
