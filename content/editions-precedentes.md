@@ -13,7 +13,7 @@ Le Festival s'est parfaitement incorporé aux jardins de l'écomusée du village
 
 ![](/img/marcia.jpeg)
 
-![](/img/image_6487327.jpg)
+![](/img/succès.jpeg)
 
 ## Juin 2022 - 2e édition
 
