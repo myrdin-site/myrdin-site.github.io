@@ -269,17 +269,21 @@ svg {
       text-decoration: none; }
 
 .carousel {
+  padding: 0.2rem;
   padding-top: 2rem;
   max-width: 70vw;
   margin: auto; }
   .carousel img {
-    width: 70vw;
+    width: 63vw;
     height: auto;
     margin: auto; }
   .carousel h3 {
     margin-top: 1rem;
     text-transform: uppercase;
     text-align: center; }
+
+.carousel--item {
+  padding: 0.4rem; }
 
 .container--single {
   width: 90vw;
