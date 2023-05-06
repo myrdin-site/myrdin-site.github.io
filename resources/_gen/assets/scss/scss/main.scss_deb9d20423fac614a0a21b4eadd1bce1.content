@@ -65,7 +65,7 @@ header {
 @font-face {
   font-display: swap;
   /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Playfair Display';
+  font-family: "Playfair Display";
   font-style: normal;
   font-weight: 500;
   src: url("../fonts/playfair-display-v30-latin-500.eot");
@@ -77,7 +77,7 @@ header {
 @font-face {
   font-display: swap;
   /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Lato';
+  font-family: "Lato";
   font-style: normal;
   font-weight: 400;
   src: url("../fonts/lato-v23-latin-regular.eot");
@@ -107,6 +107,17 @@ a {
 
 li {
   list-style-type: circle; }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0; }
 
 .nav--menu {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
@@ -181,7 +192,7 @@ main img {
   .hero .hero--link-program {
     display: inline-block;
     text-transform: uppercase;
-    padding: .6rem;
+    padding: 0.6rem;
     margin-bottom: 1rem;
     background-color: white;
     color: #171e24;
@@ -256,7 +267,12 @@ svg {
   width: 90vw;
   margin: auto;
   padding-top: 1.2rem; }
-  .container--single h1, .container--single h2, .container--single h3, .container--single h4, .container--single h5, .container--single h6 {
+  .container--single h1,
+  .container--single h2,
+  .container--single h3,
+  .container--single h4,
+  .container--single h5,
+  .container--single h6 {
     padding-top: 1.2rem; }
   .container--single p {
     padding-top: 1rem; }
@@ -285,7 +301,7 @@ svg {
     display: flex;
     gap: 1rem;
     padding: 0.6rem 0;
-    margin-left: 0.6rem; }
+    margin-left: 0rem; }
   .hero {
     margin: auto;
     max-width: 94vw; }

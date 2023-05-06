@@ -19,7 +19,7 @@
     display: flex;
     gap: 1rem;
     padding: 0.6rem 0;
-    margin-left: 0.6rem;
+    margin-left: 0rem;
   }
   .hero {
     margin: auto;
@@ -34,16 +34,15 @@
       display: none;
     }
   }
-.carousel img {
-  width: 68vw;
+  .carousel img {
+    width: 68vw;
+  }
+  .index--content {
+    margin: auto;
+    max-width: 94vw;
+  }
+  .nav--container-list {
+    display: flex;
+    align-items: center;
+  }
 }
-.index--content {
-  margin: auto;
-  max-width: 94vw;
-}
-.nav--container-list {
-  display: flex;
-  align-items: center;
-}
-}
-

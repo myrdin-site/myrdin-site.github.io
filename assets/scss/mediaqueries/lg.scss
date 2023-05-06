@@ -11,26 +11,25 @@
     position: relative;
     max-width: $container;
     .hero--loup {
-     position: absolute;
-     display: block;
-     left: -8.3rem;
-     top: 2.2rem;
-   }
- }
- .index--content {
-   max-width: $container;
- }
- .carousel img {
-   width: 22vw;
- }
- .container--single {
-   width: $container;
-  .container--single-content {
-   width: 60vw;
-   img {
-     width: 75%;
-   }
- }
- }
- 
+      position: absolute;
+      display: block;
+      left: -8.3rem;
+      top: 2.2rem;
+    }
+  }
+  .index--content {
+    max-width: $container;
+  }
+  .carousel img {
+    width: 22vw;
+  }
+  .container--single {
+    width: $container;
+    .container--single-content {
+      width: 60vw;
+      img {
+        width: 75%;
+      }
+    }
+  }
 }
