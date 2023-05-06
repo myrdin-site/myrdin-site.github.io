@@ -89,18 +89,6 @@ collections:
         fields:
           - { label: "Titre", name: "title", widget: "string" }
           - { label: "Contenu", name: "body", widget: "markdown" }
-  - name: "FAQ"
-    label: "FAQ"
-    files:
-      - name: "FAQ"
-        label: "FAQ"
-        file: "content/FAQ.md"
-        create: false
-        editor:
-          preview: false
-        fields:
-          - { label: "Titre", name: "title", widget: "string" }
-          - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "programme"
     label: "Programme"
     files:
