@@ -3,8 +3,9 @@
   <nav role="navigation" aria-label="Menu principal">
     <ul class="nav--list">
       {{ $currentPage := . }} {{ range .Site.Menus.main }}
-      <li class="nav--item" {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} 
-	class="nav--item nav--item-active" aria-current="page"
+      <li class="nav--item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main"
+		 .)}} nav--item-active {{end}}" {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} 
+	aria-current="page"
 	{{end}}
       >
 	<a href="{{ .URL }}">{{ .Name }}</a>

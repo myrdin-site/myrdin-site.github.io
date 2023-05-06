@@ -24,8 +24,9 @@
     .banner--img {
       display: block;
       position: relative;
-      width: 100vw;
+      width: 99.5vw;
       left: calc(-50vw + 50%);
+      border: none;
     }
     .banner--img-mobile {
       display: none;

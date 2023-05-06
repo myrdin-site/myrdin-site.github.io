@@ -28,12 +28,12 @@
   .hero--link-support {
     display: inline-block;
     text-transform: uppercase;
-    text-decoration: underline;
     margin-bottom: 2rem;
     font-size: 1rem;
-    &:hover {
-      text-decoration: none;
-    }
+    border-bottom: 2px solid #248917;
+      &:hover {
+	border-bottom: 2px solid transparent;
+      }
   }
   .hero--loup {
     display: none;
