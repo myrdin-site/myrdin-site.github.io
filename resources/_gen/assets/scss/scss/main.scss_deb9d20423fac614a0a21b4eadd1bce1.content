@@ -276,7 +276,9 @@ svg {
     width: 70vw;
     height: auto;
     margin: auto; }
-  .carousel h2 {
+  .carousel h3 {
+    margin-top: 1rem;
+    text-transform: uppercase;
     text-align: center; }
 
 .container--single {
