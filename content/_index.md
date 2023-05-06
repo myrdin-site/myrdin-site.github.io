@@ -2,7 +2,7 @@
 ---
 <span aria-hidden="true">&#128680;</span> Seul le concert de Jean Rondeau nécessite une réservation préalable (nombre de places limitées). <span aria-hidden="true">&#128680;</span>
 
-Pour réserver écrire un mail à [contact@claviersdanslesmonts.fr](mailto:contact@claviersdanslesmonts.fr).
+Pour réserver écrire un mail en précisant le nombre de places réservées à [contact@claviersdanslesmonts.fr](mailto:contact@claviersdanslesmonts.fr).
 
 Les concerts sont à prix libre, prix conscient. Notez que le bourg de Saint Rivoal de dispose pas de guichet
 de retrait.
