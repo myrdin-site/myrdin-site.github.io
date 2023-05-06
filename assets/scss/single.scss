@@ -22,6 +22,12 @@
       text-decoration: none;
     }
   }
+  figure {
+    padding-top: 1rem;
+  }
+  figcaption {
+    font-style: italic;
+  }
   .container--single-content {
     width: 90vw;
     img {
