@@ -226,17 +226,21 @@ main img {
   padding-top: 2rem;
   text-align: center; }
 
-.index--content .index--infos p {
-  padding-top: 1rem;
-  margin: 0 1rem; }
+.index--content .index--infos {
+  text-align: center; }
+  .index--content .index--infos p {
+    padding-top: 1rem;
+    margin: 0 1rem; }
+  .index--content .index--infos ul {
+    padding-top: 1rem; }
+  .index--content .index--infos a {
+    text-decoration: underline; }
+    .index--content .index--infos a:hover {
+      text-decoration: none; }
 
-.index--content .index--infos ul {
-  padding-top: 1rem; }
-
-.index--content .index--infos a {
-  text-decoration: underline; }
-  .index--content .index--infos a:hover {
-    text-decoration: none; }
+.index--content iframe {
+  display: block;
+  margin: auto; }
 
 footer {
   margin-top: 1.6rem;
@@ -329,7 +333,12 @@ svg {
 
 @media (min-width: 768px) {
   .carousel img {
-    width: 34vw; } }
+    width: 34vw; }
+  .index--infos {
+    display: flex; }
+    .index--infos .index--infos-about,
+    .index--infos .index--infos-support {
+      width: 50%; } }
 
 @media (min-width: 1024px) {
   .banner {

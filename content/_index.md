@@ -1,4 +1,6 @@
-Seul le concert de Jean Rondeau nécessite une réservation préalable (nombre de places limitées).
+---
+---
+<span aria-hidden="true">&#128680;</span> Seul le concert de Jean Rondeau nécessite une réservation préalable (nombre de places limitées). <span aria-hidden="true">&#128680;</span>
 
 Pour réserver écrire un mail à [contact@claviersdanslesmonts.fr](mailto:contact@claviersdanslesmonts.fr).
 

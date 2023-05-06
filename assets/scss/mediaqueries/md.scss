@@ -2,4 +2,11 @@
   .carousel img {
     width: 34vw;
   }
+  .index--infos {
+    display: flex;
+    .index--infos-about,
+    .index--infos-support {
+      width: 50%;
+    }
+  }
 }

@@ -59,18 +59,23 @@
     text-align: center;
   }
   .index--infos {
-      p {
-        padding-top: 1rem;
-	margin: 0 1rem;
-      }
-      ul {
-        padding-top: 1rem;
-      }
-      a {
-        text-decoration: underline;
-        &:hover {
-          text-decoration: none;
-        }
+    text-align: center;
+    p {
+      padding-top: 1rem;
+      margin: 0 1rem;
+    }
+    ul {
+      padding-top: 1rem;
+    }
+    a {
+      text-decoration: underline;
+      &:hover {
+        text-decoration: none;
       }
     }
+  }
+  iframe {
+    display: block;
+    margin: auto;
+  }
 }
