@@ -28,6 +28,6 @@ On l'entend régulièrement aux côtés de Mathieu Chedid pour diverses collabor
 **Jean Guyomarc'h** (guitare) commence la guitare manouche en autodidacte. Après avoir remporté le tremplun musical de Tregunc, il participe à un concert aux côtés d'Angelo Debarre.Il participe à 4 stages au festival de « Jazz in Marciac » avec le guitariste Serge Lazavevitch, puis à l’école Didier Lockwood et un avec Mandino Reinhardt. Jean intègre le conservatoire de Brest et travaille avec Geoffroy Demasure et Magic Malik. En 2009 il entre à l’école « Jazz à Tours» où il sera formé par Antoine Polin, Thierry Vaillot et Guillaume de Chassy.Il obtient son DEM de jazz en 2012 avec les félicitations du jury. Il est reçu en 2014 au Pôle Supérieur de Paris Boulogne Billancourt, où il étudie notamment avec Claude Barthélémy, Manu Godja, François Merville, Carine Bonnefoy, Jean-Charles Richard. Il participe également à de nombreux projets dont Alternate Cake (anciennement Major
 Swing Quartet, qu’il a initié avec Philippe Cann en 2008), Hop hop hop Crew (musiques des Balkans), Macadam Quidam (chanson française), My Favourite Swing, Mahje (duo de jazz, guitare/contrebasse), Ganesha (Musique indienne Jazz), et le Balluche de la Saugrenue (musiques actuelles).
 
-Écoutez Ganesha Nâga (Teepu et Jean) ici : https://www.youtube.com/watch?v=905uJOCrBh4&t=179s
+[Écoutez Ganesha Nâga (Teepu et Jean)](https://www.youtube.com/watch?v=905uJOCrBh4&t=179s)
 
 ![](/img/photo-jean.jpg)
