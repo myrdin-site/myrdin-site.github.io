@@ -16,10 +16,7 @@
   }
 
   .nav--list {
-    display: flex;
-    gap: 1rem;
     padding: 0.6rem 0;
-    margin-left: 0rem;
   }
   .hero {
     margin: auto;
@@ -40,9 +37,5 @@
   .index--content {
     margin: auto;
     max-width: 94vw;
-  }
-  .nav--container-list {
-    display: flex;
-    align-items: center;
   }
 }

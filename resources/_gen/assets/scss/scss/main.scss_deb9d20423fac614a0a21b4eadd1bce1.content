@@ -298,10 +298,7 @@ svg {
   .banner--contact-text {
     padding-left: 0.4rem; }
   .nav--list {
-    display: flex;
-    gap: 1rem;
-    padding: 0.6rem 0;
-    margin-left: 0rem; }
+    padding: 0.6rem 0; }
   .hero {
     margin: auto;
     max-width: 94vw; }
@@ -316,10 +313,7 @@ svg {
     width: 68vw; }
   .index--content {
     margin: auto;
-    max-width: 94vw; }
-  .nav--container-list {
-    display: flex;
-    align-items: center; } }
+    max-width: 94vw; } }
 
 @media (min-width: 768px) {
   .carousel img {
@@ -329,7 +323,7 @@ svg {
   .banner {
     max-width: 70vw; }
   .nav--container-list {
-    max-width: 70vw;
+    max-width: 90vw;
     padding: 1rem 0;
     margin: auto; }
   .hero {
@@ -349,6 +343,22 @@ svg {
     .container--single .container--single-content {
       width: 60vw; }
       .container--single .container--single-content img {
-        width: 75%; } }
+        width: 75%; }
+  .nav--list {
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.6rem 0;
+    margin-left: 0rem; }
+  .nav--container-list {
+    display: flex;
+    align-items: center; } }
+
+@media (min-width: 1280px) {
+  .nav--container-list {
+    max-width: 71vw; } }
+
+@media (min-width: 1536px) {
+  .nav--container-list {
+    max-width: 70vw; } }
 
 /*# sourceMappingURL=main.css.map */

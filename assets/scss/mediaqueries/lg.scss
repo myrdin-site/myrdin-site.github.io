@@ -3,7 +3,7 @@
     max-width: $container;
   }
   .nav--container-list {
-    max-width: $container;
+    max-width: 90vw;
     padding: 1rem 0;
     margin: auto;
   }
@@ -31,5 +31,15 @@
         width: 75%;
       }
     }
+  }
+.nav--list {
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.6rem 0;
+    margin-left: 0rem;
+  }
+ .nav--container-list {
+    display: flex;
+    align-items: center;
   }
 }
