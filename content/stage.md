@@ -3,9 +3,9 @@ title: Stage de piano
 menu: main
 weight: 6
 ---
-# Du 24 au 28 Juillet 2023 à Saint-Rivoal
+## Du 24 au 28 Juillet 2023 à Saint-Rivoal
 
-## Stage de piano tous niveaux animé par Fanny Bourrillon
+### Stage de piano tous niveaux animé par Fanny Bourrillon
 
 Des débutants aux confirmés, cette semaine de stage est dédiée à l'apprentissage ou à l'approfondissement du répertoire classique à contemporain pour piano. 
 
@@ -17,13 +17,13 @@ Des débutants aux confirmés, cette semaine de stage est dédiée à l'apprenti
 
 Vous souhaitez vous remettre à niveau ? Passer une semaine en immersion avec un programme musical quotidien ? Travailler une pièce à 4 mains ? Débuter l'instrument ? Découvrir du répertoire ? Ce stage est là pour vous ! 
 
-## Où ? 
+#### Où ? 
 
 Dans le bourg de Saint-Rivoal. Les cours se déroulent sur un piano à queue Kawai. Une salle de travail est mise à disposition dans un bureau de jardin (piano Seiler). 
 
 ![](/img/kawai.jpeg)
 
-## À propos de Fanny Bourrillon
+### À propos de Fanny Bourrillon
 
 Directrice artistique du festival, Fanny Bourrillon est pianiste et diplômée de l'Académie Supérieure de Musique de Strasbourg d'un Master Composition et Interprétation Musicales (piano et musique de chambre). 
 
@@ -32,6 +32,6 @@ Tout au long de son parcours musical, Fanny a eu la chance de recevoir les conse
 
 En 2022 elle sort un album solo : "Choses humaines et univers fantastique au piano" autour d'oeuvres de Beethoven, Schumann et Ravel. 
 
-Pour écouter l'album : https://www.youtube.com/playlist?list=OLAK5uy_k_ARMTItrku0h3CKtOrCPuRJox2GPz_DE
+[Écouter l'album](https://www.youtube.com/playlist?list=OLAK5uy_k_ARMTItrku0h3CKtOrCPuRJox2GPz_DE)
 
-Fanny Bourrillon, 32 variations en do mineur WoO80  de L-V Beethoven : https://www.youtube.com/watch?v=A7jUdk0wv90
+[Fanny Bourrillon, 32 variations en do mineur WoO80  de L-V Beethoven](https://www.youtube.com/watch?v=A7jUdk0wv90)

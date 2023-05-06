@@ -13,8 +13,6 @@ Le Festival s'est parfaitement incorporé aux jardins de l'écomusée du village
 
 ![](/img/marcia.jpeg)
 
-![](/img/succès.jpeg)
-
 ## Juin 2022 - 2e édition
 
 Ce fut une édition aux accents "baroques" avec la participation de l'ensemble Léviathan pour un programme anglais du 17 et 18e siècles intitulé "How sweet is the air". Dirigé par Lucile Tessier, l'ensemble comprend Eugénie Lefebvre (soprano), Clément Geoffroy (clavecin), Julie Dessaint (viole de gambe). Le public a été conquis par la virtuosité des artistes, leur présence et un programme sensible et peu connu. 
