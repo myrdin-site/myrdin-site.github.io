@@ -30,4 +30,7 @@ Swing Quartet, qu’il a initié avec Philippe Cann en 2008), Hop hop hop Crew (
 
 [Écoutez Ganesha Nâga (Teepu et Jean)](https://www.youtube.com/watch?v=905uJOCrBh4&t=179s)
 
-![](/img/photo-jean.jpg)
+<figure role="figure" aria-label="Jean Guyomarc'h à la guitare - Michel Piedallu">
+    <img src="/img/photo-jean.jpg" alt="Jean Guyomarc'h sur scène avec sa guitare">
+    <figcaption>Jean Guyomarc’h à la guitare - Michel Piedallu</figcaption>
+</figure>
