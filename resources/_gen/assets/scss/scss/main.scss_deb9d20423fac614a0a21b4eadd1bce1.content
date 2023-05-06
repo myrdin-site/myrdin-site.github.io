@@ -188,21 +188,21 @@ main img {
     margin-top: 2rem; }
   .hero .hero--place {
     padding-bottom: 2rem;
-    font-size: 1.2rem; }
+    font-size: 1.2rem;
+    margin-top: 1rem; }
   .hero .hero--link-program {
     display: inline-block;
     text-transform: uppercase;
     padding: 0.6rem;
     margin-bottom: 1rem;
-    background-color: white;
-    color: #171e24;
+    background-color: #248917;
+    color: white;
     font-size: 1rem;
-    border: 1px solid #171e24; }
+    border-radius: 5px; }
     .hero .hero--link-program:hover {
-      color: white;
-      background-color: #171e24; }
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; }
   .hero .hero--link-support {
-    display: block;
+    display: inline-block;
     text-transform: uppercase;
     text-decoration: underline;
     margin-bottom: 2rem;
