@@ -226,6 +226,18 @@ main img {
   padding-top: 2rem;
   text-align: center; }
 
+.index--content .index--infos p {
+  padding-top: 1rem;
+  margin: 0 1rem; }
+
+.index--content .index--infos ul {
+  padding-top: 1rem; }
+
+.index--content .index--infos a {
+  text-decoration: underline; }
+  .index--content .index--infos a:hover {
+    text-decoration: none; }
+
 footer {
   margin-top: 1.6rem;
   border-top: 1px solid #220d00;

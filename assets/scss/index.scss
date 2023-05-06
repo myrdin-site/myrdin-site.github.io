@@ -58,4 +58,19 @@
     padding-top: 2rem;
     text-align: center;
   }
+  .index--infos {
+      p {
+        padding-top: 1rem;
+	margin: 0 1rem;
+      }
+      ul {
+        padding-top: 1rem;
+      }
+      a {
+        text-decoration: underline;
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
 }
