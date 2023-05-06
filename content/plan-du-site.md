@@ -9,10 +9,11 @@ Ce plan du site présente l'ensemble des pages du site.
 - [À propos](/a-propos/)
 - [Programme](/programme/)
 - [Éditions précédentes](/editions-precedentes/)
+- [Ensemble Cobalt](/cobalt/)
+- [Stage](/stage/)
 
-## Informations pratiques et contact
+## Contact
 
-- [FAQ](/faq/)
 - [Contactez-nous](/contact/)
 
 ## Artistes
@@ -25,6 +26,7 @@ Ce plan du site présente l'ensemble des pages du site.
 
 ## Autres informations
 
+- [Presse](/presse/)
 - [Mentions légales](/mentions-legales/)
 
 
