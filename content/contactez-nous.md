@@ -12,4 +12,4 @@ Pour réserver le concert de Jean Rondeau le 16/06 à 20h30 (Église du bourg) �
 l'adresse suivante : [contact@claviersdanslesmonts.fr](mailto:contact@claviersdanslesmonts.fr). Mentionner le
 nombre de places souhaitées ainsi que vos coordonnées.
 
-Si vous annuler votre venue, merci de nous en informer.
+Si vous annulez votre venue, merci de nous en informer.
