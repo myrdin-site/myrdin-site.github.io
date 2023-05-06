@@ -5,13 +5,16 @@
     <p class="hero--place">Saint-Rivoal · 16 et 17 Juin 2023</p>
     <a href="/programme/" class="hero--link-program">Découvrir la programmation</a>
     <br>
-    <a href="#" class="hero--link-support">Soutenir le festival</a>
+    <a href="https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-3eme-edition" class="hero--link-support">Soutenir le festival</a>
   <img class="banner--img" src="/img/banner.png" alt="claviers dans les monts - 3ème édition">
   <img class="banner--img-mobile" src="/img/banner-mobile.png" alt="Claviers dans les Monts - 3ème édition">
   </div>
   <div class="index--content">
     <h2>Les artistes de l'édition 2023</h2>
   {{- partial "carousel.html" . -}}
-  {{ .Content }}
+  <h2>Soutenir le festival</h2>
+  <iframe id="haWidget" allowtransparency="true"
+    src="https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-3eme-edition/widget-vignette"
+    style="width: 350px; height: 550px; border: none; margin-top: 2rem;"></iframe>
   </div>
 {{ end }}
