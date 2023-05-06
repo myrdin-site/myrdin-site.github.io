@@ -19,5 +19,6 @@ weight: 3
 * L’ensemble musical Arsy’s
 * Andoni Aguirre
 * Fanny Bourrillon et Thibault Guillemin
+* Charlotte Guillemin
 
 
