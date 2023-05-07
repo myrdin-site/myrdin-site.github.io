@@ -139,8 +139,7 @@ li {
   .nav--item a {
     display: inline-block;
     text-decoration: none;
-    position: relative;
-    margin: 0.4rem 0; }
+    position: relative; }
     .nav--item a:after {
       content: "";
       position: absolute;
