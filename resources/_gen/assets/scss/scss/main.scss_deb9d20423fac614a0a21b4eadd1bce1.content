@@ -266,7 +266,7 @@ svg {
   .footer--container ul li {
     list-style-type: none;
     text-decoration: underline;
-    margin: 0.4rem; }
+    margin: 0.6rem; }
     .footer--container ul li:hover {
       text-decoration: none; }
 
