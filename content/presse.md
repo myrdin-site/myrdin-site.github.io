@@ -3,7 +3,7 @@ title: Presse
 menu: main
 weight: 5
 ---
-![](/img/screenshot-2023-05-01-at-16.15.05.png)
+![](/img/presse.jpg)
 
 ## Édition 2022
 
