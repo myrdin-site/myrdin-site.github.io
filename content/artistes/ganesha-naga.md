@@ -1,6 +1,6 @@
 ---
 title: Ganesha Nâga
-cover: /img/ganesha-naga.webp
+cover: /img/ganesha-naga.png
 weight: 5
 ---
 ## Samedi 17 Juin - 21H30 - Église de Saint-Rivoal

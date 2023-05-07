@@ -1,6 +1,6 @@
 ---
 title: Collectif Aurita
-cover: /img/collectif-aurita.webp
+cover: /img/collectif-aurita.png
 weight: 4
 ---
 ## Samedi 17 Juin - 20H30 - Jardins de l'écomusée 
