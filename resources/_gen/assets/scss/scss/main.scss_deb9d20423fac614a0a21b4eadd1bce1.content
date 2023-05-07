@@ -139,7 +139,8 @@ li {
   .nav--item a {
     display: inline-block;
     text-decoration: none;
-    position: relative; }
+    position: relative;
+    margin: 0.4rem 0; }
     .nav--item a:after {
       content: "";
       position: absolute;
@@ -264,7 +265,8 @@ svg {
       text-decoration: none; }
   .footer--container ul li {
     list-style-type: none;
-    text-decoration: underline; }
+    text-decoration: underline;
+    margin: 0.4rem; }
     .footer--container ul li:hover {
       text-decoration: none; }
 
