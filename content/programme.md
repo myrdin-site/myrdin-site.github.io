@@ -3,6 +3,7 @@ title: "Programme"
 menu: main
 weight: 2
 ---
+![Claviers dans les Monts - 3eme édition - 16/17 Juin - Saint Rivoal Bourg - réservations obligatoires sur https://claviersdanslesmonts.fr ou 06 61 09 61 15 - Concerts à prix libre](/img/CDLM2023.jpg)
 
 ## Vendredi 16 Juin - Ouverture
 
