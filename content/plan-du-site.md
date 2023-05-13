@@ -14,7 +14,7 @@ Ce plan du site présente l'ensemble des pages du site.
 
 ## Contact
 
-- [Contactez-nous](/contact/)
+- [Contactez-nous](/contactez-nous/)
 
 ## Artistes
 
