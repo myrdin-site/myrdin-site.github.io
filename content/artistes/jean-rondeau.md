@@ -7,7 +7,7 @@ weight: 1
 
 ### Concert J-S Bach, *Variations Goldberg* et autres surprises...
 
-**Réservation obligatoire**
+<span aria-hidden="true">&#128680;</span>**Concert complet, plus de réservation possible**<span aria-hidden="true">&#128680;</span> 
 
 Jean Rondeau est claveciniste, pianiste et compositeur multi-récompensé. Musicien complet aux multiples facettes il est fondateur d'un ensemble baroque et d'un quartet de jazz, il confond les styles à travers ses nombreuses collaborations comme instrumentiste et compositeur.
 
