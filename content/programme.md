@@ -14,7 +14,7 @@ weight: 2
 
 ## Samedi 17 Juin
 
-### 16h00
+### 16h30
 [Gaël Le Guillou-Castel et Marianne Beau-Piriou](../artistes/gael-marianne/). Programme Chansons
 (piano-voix).
 "Chansons mélancoliques et paillettes". 
