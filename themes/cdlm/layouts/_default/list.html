@@ -4,15 +4,17 @@
     <div>
       <h1>{{ .Title }}</h1>
     </div>
-    <h2>Édition 2023</h2>
-    <ul>
-      {{ range .Pages }}
-      <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </li>
-      {{ end }}
-    </ul>
-      {{ .Content }}
+    {{ range .Sections.Reverse }}
+      <h2>Édition {{ .Title }}</h2>
+      <ul>
+        {{ range .Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    {{ .Content }}
   </div>
 </div>
 {{ end }}

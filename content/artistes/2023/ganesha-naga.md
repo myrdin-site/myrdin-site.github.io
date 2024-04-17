@@ -1,6 +1,6 @@
 ---
 title: Ganesha Nâga
-cover: /img/ganesha-naga.png
+cover: /img/2023/ganesha-naga.png
 weight: 5
 ---
 ## Samedi 17 Juin - 21H30 - Église de Saint-Rivoal
@@ -15,7 +15,7 @@ nostalgiques, et aussi de quelques surprenantes compositions du groupe.
 Les instruments sont le tabla (percussion indienne), l'harmonium (piano
 indien), chant, kartal (castagnettes indiennes), et guitare manouche.
 
-![](/img/photo-sanjay.jpg)
+![](/img/2023/photo-sanjay.jpg)
 
 Le trio est composé de **Teepu Khan** (tabla, chant). Virtuose dans son domaine, il joue aux avec le groupe 
 Plata (flamenco) en 2008, Bagdad Beat's (un groupe de rock danois) en 2012, Les Noces Gitanes
@@ -31,6 +31,6 @@ Swing Quartet, qu’il a initié avec Philippe Cann en 2008), Hop hop hop Crew (
 [Écoutez Ganesha Nâga (Teepu et Jean)](https://www.youtube.com/watch?v=905uJOCrBh4&t=179s)
 
 <figure role="figure" aria-label="Jean Guyomarc'h à la guitare - Michel Piedallu">
-    <img src="/img/photo-jean.jpg" alt="Jean Guyomarc'h sur scène avec sa guitare">
+    <img src="/img/2023/photo-jean.jpg" alt="Jean Guyomarc'h sur scène avec sa guitare">
     <figcaption>Jean Guyomarc’h à la guitare - Michel Piedallu</figcaption>
 </figure>

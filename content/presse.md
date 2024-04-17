@@ -1,9 +1,7 @@
 ---
 title: Presse
-menu: main
-weight: 5
 ---
-![](/img/presse.jpg)
+![](/img/2021/presse.jpg)
 
 ## Édition 2022
 

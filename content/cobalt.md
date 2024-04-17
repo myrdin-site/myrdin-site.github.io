@@ -1,7 +1,5 @@
 ---
 title: Ensemble Cobalt
-menu: main
-weight: 6
 ---
 ![](/img/cobalt.png)
 

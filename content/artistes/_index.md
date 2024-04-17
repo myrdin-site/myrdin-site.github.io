@@ -1,7 +1,5 @@
 ---
 title: "Artistes"
-menu: main
-weight: 3
 ---
 ## Édition 2022
 
