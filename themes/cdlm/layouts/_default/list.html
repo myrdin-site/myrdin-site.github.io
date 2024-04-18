@@ -1,20 +1,12 @@
 {{ define "main" }}
-<div class="container--single">
-  <div class="container--single-content">
-    <div>
-      <h1>{{ .Title }}</h1>
+  {{ range .Pages.ByDate }}
+    <div class="container--single">
+      <div class="container--single-content">
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+      </div>
     </div>
-    {{ range .Sections.Reverse }}
-      <h2>Édition {{ .Title }}</h2>
-      <ul>
-        {{ range .Pages }}
-        <li>
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    {{ end }}
-    {{ .Content }}
-  </div>
-</div>
+  {{ end }}
 {{ end }}
+
+

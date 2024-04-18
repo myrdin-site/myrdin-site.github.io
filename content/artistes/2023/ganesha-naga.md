@@ -1,19 +1,18 @@
 ---
 title: Ganesha Nâga
 cover: /img/2023/ganesha-naga.png
-weight: 5
+date: 2023-06-17T21:30:00
+place: Église de Saint-Rivoal
+description: Musique indenne mélange avec l'esprit de l'improvisation jazz
+type: misc
+layout: artiste
 ---
-## Samedi 17 Juin - 21H30 - Église de Saint-Rivoal
 
-### Concert de Ganesha Nâga
+Ganesha Nâga est un groupe dans lequel la musique indienne se mélange avec l'esprit de l'improvisation jazz. Il s'agit de la rencontre entre des musiciens indiens du Rajasthan, et d'un musicien issu du jazz manouche.
 
-Ganesha Nâga est un groupe dans lequel la musique indienne se mélange
-avec l'esprit de l'improvisation jazz. Il s'agit de la rencontre entre des musiciens
-indiens du Rajasthan, et d'un musicien issu du jazz manouche.
-Le répertoire est constitué essentiellement de chants traditionnels, entraînants et
-nostalgiques, et aussi de quelques surprenantes compositions du groupe.
-Les instruments sont le tabla (percussion indienne), l'harmonium (piano
-indien), chant, kartal (castagnettes indiennes), et guitare manouche.
+Le répertoire est constitué essentiellement de chants traditionnels, entraînants et nostalgiques, et aussi de quelques surprenantes compositions du groupe.
+
+Les instruments sont le tabla (percussion indienne), l'harmonium (piano indien), chant, kartal (castagnettes indiennes), et guitare manouche.
 
 ![](/img/2023/photo-sanjay.jpg)
 

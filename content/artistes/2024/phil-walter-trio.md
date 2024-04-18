@@ -1,15 +1,22 @@
 ---
 title: Phil Walter Trio
-cover: /img/2024/phil-walter-trio/***.jpg
-weight: 4
+cover: /img/2024/phil-walter-trio/phil-au-piano.jpg
+date: 2024-06-15T20:30:00
+place: Salle des fetes
+description: Cave à Jazz à St. Rivoal
+type: misc
+layout: artiste
 ---
-## *** *** Juin - *** - ***
-
-![Phil Walter Trio](/img/2024/phil-walter-trio/***.jpg)
-
 
 ### Phil Walter
+![Phil Walter](/img/2024/phil-walter.jpg)
+« Romantique à tous les tempos » Jazzman. Bercé par Vian, Nougaro avec qui son père pianiste Jimmy Walter composait, le jeune Phil Walter sort son premier album entouré de Dédé Ceccarelli, drums, Bunny Brunel, bass, Didier Loockwood, violon : « Black Sun » qui se classe parmi les hit mondiaux Dance Jazz en 1980.
 
+Rencontres et collaborations se succèdent avec des artistes de différents horizons : classique avec Francois-René Duchâble,  jazz avec Birelli Lagrene, Hall singer ou Sunny Murrayetc... chanson avec Herbert Leonard et Catherine Lara ou Gospel avec  Clide Wright du Golden Gate Quartet. Ces nombreuses collaborations et tournées internationales lui valent de développer un style unique : influence classique, jazz ambiances latines se mêlent à des mélodies et harmonies hors du commun.
+
+Depuis 2016 compose de nombreuses musiques de films avec Lycia Walter sa fille. La pédagogie l’interpelle. Pendant des années, il  développera une formule d’apprentissage du piano révolutionnaire : la Méthode Phil Walter. 
+
+Celle-ci consiste à revenir à la méthode d’enseignement des génies tels Bach, Beethoven ou Chopin, basée sur le rythme et l’oreille, comme des percussions. Empruntant les mêmes codes que le JAZZ, l’initiation permet à un néophyte complet de jouer avec lui instantanément, sur tous les styles de musique. Frédéric Mitterrand, Ministre de la  Culture, l’a lui même essayée avec enthousiasme, lors de sa visite de la manufacture Pleyel en février 2010. En solo, il se produit régulièrement à la salle Pleyel où il donna également des masterclasses. Il est invité à participer à des événements prestigieux au Musée d’Orsay (en collaboration avec DJ Ron-X), au Grand Rex (avant première « Danny The Dog » du film de Luc Besson) ou au Grand Palais, à l’occasion de la FIAC. Il a également composé des musiques de pièces de théâtre et de ballet : « Par de la la Lumiére » de Valentine Zatevalneva, Bordeaux 2023. Il a composé le générique du Festival du Film de BIARRITZ pendant quatre ans, une de ses compositions a été générique de SKY ROCK pendant trois ans. Phil Walter a aussi participé à la composition, enregistrement et arrangement de nombreux albums. 
 
 ### Christian Lété
 ![Christian Lété](/img/2024/phil-walter-trio/christian-lete.jpg)

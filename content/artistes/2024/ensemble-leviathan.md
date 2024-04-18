@@ -1,13 +1,12 @@
 ---
 title: Ensemble Léviathan
 cover: /img/2024/ensemble-leviathan/ensemble.jpg
-weight: 4
+date: 2024-06-15T19:00:00
+place: Église de Saint-Rivoal
+description: "Musique Baroque ***: The Mad Lovers"
+type: misc
+layout: artiste
 ---
-## *** *** Juin - *** - ***
-
-![Ensemble Léviathan](/img/2024/ensemble-leviathan/ensemble.jpg)
-
-### The Mad Lovers - Durée : 70 minutes
 
 L’Ensemble Leviathan, créé par Lucile Tessier en 2016, rassemble de jeunes professionnels autour d’un objectif commun : explorer l'expressivité de la musique baroque, et la faire partager à un large public. Pour cela, il propose une double approche du répertoire : des concerts « traditionnels », adaptés à tous les lieux et tous les publics, et des projets pluridisciplinaires, associant la musique baroque au théâtre, au cirque ou à d’autres styles musicaux.
 Les premiers programmes de l’ensemble gravitent autour de la musique de scène anglaise du XVIIeme siècle, parallèlement à un travail de recherche musicologique qu’entreprend Lucile Tessier sur ce sujet. L’exploration musicale de ce répertoire souvent très dramatique et contrasté permet de construire une véritable identité sonore, mettant en priorité l’expressivité et la richesse des timbres instrumentaux et vocaux.
@@ -21,11 +20,11 @@ Le premier disque de l'ensemble, "Music For Lady Louise", est paru en septembre 
 | Restless in thoughts                                   | John Eccles    |
 | I'll hurry thee hence                                  | John Eccles    |
 | Jigg (Liliburlero) in The Gordian Knot Untied          | Henry Purcell  |
-| Ground after the Scotch Humour 					               | Nicola Matteis |
+| Ground after the Scotch Humour 					     | Nicola Matteis |
 | Still I’m grieving                                     | John Eccles    |
-| Ground in The Mad Lover 						                   | John Eccles    |
-| Must then a faithful lover go 						             | John Eccles    |
-| Jigg in The Fairy Queen 						                   | Henry Purcell  |
+| Ground in The Mad Lover 						         | John Eccles    |
+| Must then a faithful lover go 			             | John Eccles    |
+| Jigg in The Fairy Queen       	                     | Henry Purcell  |
 |                                                        |                |
 | V’adoro pupille (transcription pour hautbois et BC)    | G. F. Handel   |
 | Venus and Adonis (1er récit et 1er air)                | G. F. Handel   |
@@ -58,5 +57,6 @@ Sa discographie comprend déjà près d’une trentaine d’enregistrements - en
 
 ### Loris Barrucand, clavecin
 ![Ensemble Léviathan](/img/2024/ensemble-leviathan/ensemble2.jpg)
+
 ### Aude-Marie Piloz, viole de gambe
 [![Ensemble Léviathan](https://img.youtube.com/vi/hCY1PLVHlXw/0.jpg)](https://www.youtube.com/watch?v=hCY1PLVHlXw "Ensemble Léviathan")

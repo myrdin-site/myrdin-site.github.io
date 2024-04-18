@@ -1,11 +1,12 @@
 ---
 title: Jean Rondeau
 cover: /img/2023/jean-rondeau.png
-weight: 1
+date: 2023-06-16T20:30:00
+place: Église de Saint-Rivoal
+description: "Variations Goldberg au clavecin et autre surprises..."
+type: misc
+layout: artiste
 ---
-## Vendredi 16 Juin - 20H30 - Église de Saint-Rivoal
-
-### Concert J-S Bach, *Variations Goldberg* et autres surprises...
 
 <span aria-hidden="true">&#128680;</span>**Concert complet, plus de réservation possible**<span aria-hidden="true">&#128680;</span> 
 

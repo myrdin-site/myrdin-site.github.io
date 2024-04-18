@@ -1,0 +1,11 @@
+{{ define "main" }}
+    <div class="container--single">
+        <div class="container--single-content">
+            <h2>{{ .Title}}</h2>
+            <h3>{{ .Date.Format "15h04 Monday 2 January" }} - {{ .Params.place }}</h3>
+            <em>{{ .Description }}</em><br>
+            <img src="{{ .Params.cover }}" alt="{{ .Title }}"/>
+            {{ .Content }}
+        </div>
+    </div>
+{{ end }}

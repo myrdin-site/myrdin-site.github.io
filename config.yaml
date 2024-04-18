@@ -1,0 +1,41 @@
+baseURL: https://claviersdanslesmonts.fr
+languageCode: fr
+title: Claviers Dans Les Monts
+theme: cdlm
+defaultContentLanguage: fr
+buildFuture: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+menus:
+  main:
+  - name: À propos
+    pageRef: /2024/a-propos
+    weight: 1
+  - name: Artistes
+    pageRef: /artistes
+    weight: 2
+  - name: Programme
+    pageRef: /2024/programme
+    weight: 3
+  - name: Éditions précédentes
+    pageRef: /2024/editions-precedentes
+    weight: 4
+  - name: Presse
+    pageRef: /2024/presse
+    weight: 5
+  - name: Ensemble Cobalt
+    pageRef: /2024/cobalt
+    weight: 6
+  - name: Stage du Piano
+    pageRef: /2024/stage
+    weight: 7
+params:
+  current: 2024
+  edition: "4ème"
+  logo: /img/2024/logo.png
+  banner: /img/2024/banner.jpg
+  bannermobile: /img/2024/banner-mobile.jpg
+  date: "14 et 15 Juin 2024"
+  helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-3eme-edition

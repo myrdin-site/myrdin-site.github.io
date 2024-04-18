@@ -6,27 +6,27 @@ Ce plan du site présente l'ensemble des pages du site.
 ## Présentation générale
 
 - [Accueil](/)
-- [À propos](/a-propos/)
-- [Programme](/programme/)
-- [Éditions précédentes](/editions-precedentes/)
-- [Ensemble Cobalt](/cobalt/)
-- [Stage](/stage/)
+- [À propos](/2023/a-propos/)
+- [Programme](/2023/programme/)
+- [Éditions précédentes](/2023/editions-precedentes/)
+- [Ensemble Cobalt](/2023/cobalt/)
+- [Stage](/2023/stage/)
 
 ## Contact
 
-- [Contactez-nous](/contactez-nous/)
+- [Contactez-nous](/2023/contactez-nous/)
 
 ## Artistes
 
-- [Benjamin Coum et Maryll Abbas](/artistes/coumabbas/)
-- [Collectif Aurita](/artistes/collectif-aurita/)
-- [Gaël et Marianne](/artistes/gael-marianne/)
-- [Ganesha Naga](/artistes/ganesha-naga/)
-- [Jean Rondeau](/artistes/jean-rondeau/)
+- [Benjamin Coum et Maryll Abbas](/artistes/2023/coumabbas/)
+- [Collectif Aurita](/artistes/2023/collectif-aurita/)
+- [Gaël et Marianne](/artistes/2023/gael-marianne/)
+- [Ganesha Naga](/artistes/2023/ganesha-naga/)
+- [Jean Rondeau](/artistes/2023/jean-rondeau/)
 
 ## Autres informations
 
-- [Presse](/presse/)
-- [Mentions légales](/mentions-legales/)
+- [Presse](/2023/presse/)
+- [Mentions légales](/2023/mentions-legales/)
 
 

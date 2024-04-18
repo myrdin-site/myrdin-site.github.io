@@ -1,11 +1,12 @@
 ---
 title: Collectif Aurita
 cover: /img/2023/collectif-aurita.png
-weight: 4
+date: 2023-06-17T20:30:00
+place: Jardins de l'écomusée
+description: "Theatre, trapeze et musique: Étoffer la nuit"
+type: misc
+layout: artiste
 ---
-## Samedi 17 Juin - 20H30 - Jardins de l'écomusée 
-
-### Le Collectif AURITA présente le spectacle "Étoffer la nuit" - Durée : 45 minutes
 
 *Étoffer la Nuit* est un duo qui explore l'espace temps du rêve, avec un trapèze à portée de mains, deux draps de tissu, un métallophone géant, des mots chantés et la puissance d'une voix lyrique. C'est une forme "tout terrain" où les arts visuels - et notamment le textile - occupent une place sur mesure.
 

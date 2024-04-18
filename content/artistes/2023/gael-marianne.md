@@ -1,9 +1,12 @@
 ---
 title: Gaël et Marianne
 cover: /img/2023/gael-marianne.png
-weight: 2
+date: 2023-06-17T16:30:00
+place: Jardins de l'écomusée
+description: Chansons melancolique
+type: misc
+layout: artiste
 ---
-## Samedi 17 Juin - 16h30 - Jardins de l'écomusée
 
 ### Marianne Beau-Piriou
 

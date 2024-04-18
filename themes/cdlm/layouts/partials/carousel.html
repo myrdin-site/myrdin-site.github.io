@@ -1,5 +1,5 @@
 <div class="carousel">
-  {{ range (.Site.GetPage "artistes/current").Pages }}
+  {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current))).Pages.ByDate }}
     <div class="carousel--item">
       <a href="{{ .RelPermalink }}">
         {{ with .Params.cover }}

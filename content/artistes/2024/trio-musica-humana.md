@@ -1,14 +1,12 @@
 ---
 title: Trio Musica Humana + Elisabeth Geiger
 cover: /img/2024/trio-musica-humana/TMH.webp
-weight: 4
+date: 2024-06-15T16:00:00
+place: Balade
+description: Balade et chant
+type: misc
+layout: artiste
 ---
-## *** *** Juin - *** - ***
-
-![Trio Musica Humana](/img/2024/trio-musica-humana/TMH.webp)
-
-
-### Durée : ** minutes
 
 Une Heure Secrète, hommage à William Byrd (1543-1623) par le Trio Musica Humana et Elisabeth Geiger (création 2023). 
 
