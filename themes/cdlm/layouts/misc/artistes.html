@@ -1,8 +1,9 @@
 {{ define "main" }}
-  {{ range $index, $section := .Pages.ByTitle.Reverse }}
-    <div class="container--single">
-      <div class="container--single-content">
-        <h1 style="padding-bottom:1em;">{{ .Title }}</h1>
+  <div class="container--single">
+    <div class="container--single-content">
+      <h2>Artistes</h2>
+      {{ range $index, $section := .Pages.ByTitle.Reverse }}
+        <h3>{{ .Title }}</h3>
         {{ if eq $index 0 }}
           <table>
             {{ range .Pages.ByDate }}
@@ -10,14 +11,16 @@
             {{ end }}
           </table>
         {{ else }}
-          <ul>
-            {{ range .Pages.ByDate }}
-              <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            {{ end }}
-          </ul>
+          {{ if (gt (len .Pages) 0) }}
+            <ul>
+              {{ range .Pages.ByDate }}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
         {{ end }}
-        {{ .Content }}
-      </div>
+      {{ .Content }}
+    {{ end }}
     </div>
-  {{ end }}
+  </div>
 {{ end }}

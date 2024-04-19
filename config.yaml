@@ -8,29 +8,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-menus:
-  main:
-  - name: À propos
-    pageRef: /2024/a-propos
-    weight: 1
-  - name: Artistes
-    pageRef: /artistes
-    weight: 2
-  - name: Programme
-    pageRef: /2024/programme
-    weight: 3
-  - name: Éditions précédentes
-    pageRef: /2024/editions-precedentes
-    weight: 4
-  - name: Presse
-    pageRef: /2024/presse
-    weight: 5
-  - name: Ensemble Cobalt
-    pageRef: /2024/cobalt
-    weight: 6
-  - name: Stage du Piano
-    pageRef: /2024/stage
-    weight: 7
 params:
   current: 2024
   edition: "4ème"

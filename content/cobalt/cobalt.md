@@ -1,6 +1,3 @@
----
-title: Ensemble Cobalt
----
 ![](/img/cobalt.png)
 
 ## À propos de l'association Cobalt

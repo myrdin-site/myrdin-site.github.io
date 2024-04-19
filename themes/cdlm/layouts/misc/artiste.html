@@ -1,4 +1,5 @@
 {{ define "main" }}
+    {{ $thisTitle := .Title }}
     <div class="container--single">
         <div class="container--single-content">
             <h2>{{ .Title}}</h2>
@@ -6,6 +7,21 @@
             <em>{{ .Description }}</em><br>
             <img src="{{ .Params.cover }}" alt="{{ .Title }}"/>
             {{ .Content }}
+                   
         </div>
     </div>
+    <div class="carousel">
+        {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current))).Pages.ByDate }}
+            {{ if ne .Title $thisTitle }}
+                <div class="carousel--item">
+                    <a href="{{ .RelPermalink }}">
+                        {{ with .Params.cover }}
+                            <img src="{{ . }}" alt="" />
+                        {{ end }}
+                        <h3>{{ .Title }}</h3>
+                    </a>
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>       
 {{ end }}

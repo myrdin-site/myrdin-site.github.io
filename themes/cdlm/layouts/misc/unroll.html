@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div class="container--single">
+    <div class="container--single-content">
+      <h2>{{ .Title }}</h2>
+      {{ range $index, $section := .Pages.ByTitle.Reverse }}
+        <h3>{{ .Title }}</h3>
+        {{ .Content }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
