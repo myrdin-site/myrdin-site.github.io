@@ -9,7 +9,7 @@ layout: artiste
 ---
 
 ### Phil Walter
-![Phil Walter](/img/2024/phil-walter.jpg)
+![Phil Walter](/img/2024/phil-walter-trio/phil-walter.jpg)
 « Romantique à tous les tempos » Jazzman. Bercé par Vian, Nougaro avec qui son père pianiste Jimmy Walter composait, le jeune Phil Walter sort son premier album entouré de Dédé Ceccarelli, drums, Bunny Brunel, bass, Didier Loockwood, violon : « Black Sun » qui se classe parmi les hit mondiaux Dance Jazz en 1980.
 
 Rencontres et collaborations se succèdent avec des artistes de différents horizons : classique avec Francois-René Duchâble,  jazz avec Birelli Lagrene, Hall singer ou Sunny Murrayetc... chanson avec Herbert Leonard et Catherine Lara ou Gospel avec  Clide Wright du Golden Gate Quartet. Ces nombreuses collaborations et tournées internationales lui valent de développer un style unique : influence classique, jazz ambiances latines se mêlent à des mélodies et harmonies hors du commun.
