@@ -1,7 +1,7 @@
 ---
 title: Ensemble Cobalt
 type: misc
-layout: static
+layout: current
 menus: main
 weight: 6
 ---
