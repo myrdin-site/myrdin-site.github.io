@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ range .Pages }}
+    {{ if strings.Contains .Path .Site.Params.current }}
+      <div class="container--single">
+        <div class="container--single-content">
+          {{ .Content }}
+        </div>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

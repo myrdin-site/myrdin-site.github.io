@@ -1,9 +1,12 @@
 ---
 title: Gaël et Marianne
-cover: /img/gael-marianne.png
-weight: 2
+cover: /img/2023/gael-marianne.png
+date: 2023-06-17T16:30:00
+place: Jardins de l'écomusée
+description: Chansons melancolique
+type: misc
+layout: artiste
 ---
-## Samedi 17 Juin - 16h30 - Jardins de l'écomusée
 
 ### Marianne Beau-Piriou
 
@@ -17,7 +20,7 @@ Revient à la musique quelques années plus tard, nourrie d'expériences différ
 le plaisir d'être plusieurs à partager vibrations et harmoniques ; réconciliation avec le piano, rencontre le
 chanteur avec qui ça le fait de s'essayer à créer des trucs, on verra bien ce que ça donne...
 
-![](/img/gm-7375-légère-2.jpg)
+![](/img/2023/gm-7375-légère-2.jpg)
 
 ### Gaël Le Guillou-Castel
 

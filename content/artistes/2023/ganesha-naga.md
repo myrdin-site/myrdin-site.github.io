@@ -1,21 +1,20 @@
 ---
 title: Ganesha Nâga
-cover: /img/ganesha-naga.png
-weight: 5
+cover: /img/2023/ganesha-naga.png
+date: 2023-06-17T21:30:00
+place: Église de Saint-Rivoal
+description: Musique indenne mélange avec l'esprit de l'improvisation jazz
+type: misc
+layout: artiste
 ---
-## Samedi 17 Juin - 21H30 - Église de Saint-Rivoal
 
-### Concert de Ganesha Nâga
+Ganesha Nâga est un groupe dans lequel la musique indienne se mélange avec l'esprit de l'improvisation jazz. Il s'agit de la rencontre entre des musiciens indiens du Rajasthan, et d'un musicien issu du jazz manouche.
 
-Ganesha Nâga est un groupe dans lequel la musique indienne se mélange
-avec l'esprit de l'improvisation jazz. Il s'agit de la rencontre entre des musiciens
-indiens du Rajasthan, et d'un musicien issu du jazz manouche.
-Le répertoire est constitué essentiellement de chants traditionnels, entraînants et
-nostalgiques, et aussi de quelques surprenantes compositions du groupe.
-Les instruments sont le tabla (percussion indienne), l'harmonium (piano
-indien), chant, kartal (castagnettes indiennes), et guitare manouche.
+Le répertoire est constitué essentiellement de chants traditionnels, entraînants et nostalgiques, et aussi de quelques surprenantes compositions du groupe.
 
-![](/img/photo-sanjay.jpg)
+Les instruments sont le tabla (percussion indienne), l'harmonium (piano indien), chant, kartal (castagnettes indiennes), et guitare manouche.
+
+![](/img/2023/photo-sanjay.jpg)
 
 Le trio est composé de **Teepu Khan** (tabla, chant). Virtuose dans son domaine, il joue aux avec le groupe 
 Plata (flamenco) en 2008, Bagdad Beat's (un groupe de rock danois) en 2012, Les Noces Gitanes
@@ -31,6 +30,6 @@ Swing Quartet, qu’il a initié avec Philippe Cann en 2008), Hop hop hop Crew (
 [Écoutez Ganesha Nâga (Teepu et Jean)](https://www.youtube.com/watch?v=905uJOCrBh4&t=179s)
 
 <figure role="figure" aria-label="Jean Guyomarc'h à la guitare - Michel Piedallu">
-    <img src="/img/photo-jean.jpg" alt="Jean Guyomarc'h sur scène avec sa guitare">
+    <img src="/img/2023/photo-jean.jpg" alt="Jean Guyomarc'h sur scène avec sa guitare">
     <figcaption>Jean Guyomarc’h à la guitare - Michel Piedallu</figcaption>
 </figure>

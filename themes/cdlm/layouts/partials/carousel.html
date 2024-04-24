@@ -1,13 +1,12 @@
-  <div class="carousel">
-
- {{ range where .Site.RegularPages "Section" "artistes" }}
- <div class="carousel--item">
-   <a href="{{ .RelPermalink }}">
-  {{ with .Params.cover }}
-  <img src="{{ . }}" alt="" />
+<div class="carousel">
+  {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current))).Pages.ByDate }}
+    <div class="carousel--item">
+      <a href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}
+          <img src="{{ . }}" alt="" />
+        {{ end }}
+        <h3>{{ .Title }}</h3>
+      </a>
+    </div>
   {{ end }}
-  <h3>{{ .Title }}</h3>
-  </a>
- </div>
-{{ end }}
-  </div>
+</div>
