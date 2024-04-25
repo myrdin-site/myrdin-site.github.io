@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <div class="container--single">
+    <div class="container--single-content">
+      Ce plan du site présente l'ensemble des pages du site.
+      <h2>Présentation générale</h2>
+      <ul>
+        <li><a href="/">Acceuil</a></li>
+        <li><a href="/a-propos/">À propos</a></li>
+        <li><a href="/programme/">Programme</a></li>
+        <li><a href="/editions-precedentes/">Éditions précédentes</a></li>
+        <li><a href="/cobalt/">Ensemble Cobalt</a></li>
+        {{ if eq .Site.Params.stage true }}
+          <li><a href="/stage/">Stage</a></li>
+        {{ end }}
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li><a href="/contactez-nous/">Contactez-nous</a></li>
+      </ul>
+      <h2>Artistes</h2>
+      <ul>
+        {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current ))).Pages.ByDate }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+      <h2>Autres informations</h2>
+      <ul>
+        <li><a href="/presse/">Presse</a></li>
+        <li><a href="/mentions-legales/">Mentions légales</a></li>
+      </ul>    
+    </div>
+  </div>
+{{ end }}

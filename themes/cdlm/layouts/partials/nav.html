@@ -1,12 +1,16 @@
 <div class="nav--menu nav--container">
   <div class="nav--container-list">
   <nav role="navigation" aria-label="Menu principal">
+    {{ $doingStage := .Site.Params.stage }}
     <ul class="nav--list">
       {{ $currentPage := . }} 
       {{ range .Site.Menus.main.ByWeight }}
-        <li class='nav--item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} nav--item-active {{end}}' {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} aria-current="page" {{end}}>
-          <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
+        {{ if and ( eq .Name "Stage de piano" ) ( eq $doingStage false ) }}
+        {{ else }}
+          <li class='nav--item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} nav--item-active {{end}}' {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)}} aria-current="page" {{end}}>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
   </nav>

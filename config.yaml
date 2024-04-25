@@ -11,9 +11,7 @@ markup:
 params:
   current: 2024
   edition: "4ème"
-  logo: /img/2024/logo.png
-  banner: /img/2024/banner.jpg
-  bannermobile: /img/2024/banner-mobile.jpg
   date: "14 et 15 Juin 2024"
   number: "06.07.74.56.21"
   helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-3eme-edition
+  stage: false

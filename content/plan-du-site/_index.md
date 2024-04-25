@@ -1,5 +1,5 @@
 ---
 title: Plan du site
 type: misc
-layout: current
+layout: plan-du-site
 ---

@@ -40,9 +40,9 @@
     href="{{ $style.Permalink }}"
     integrity="{{ $style.Data.Integrity }}"
   />
-  <link rel="preload" as="image" href="{{ .Site.Params.logo }}" />
-  <link rel="preload" as="image" href="{{ .Site.Params.banner }}" />
-  <link rel="preload" as="image" href="{{ .Site.Params.bannermobile }}" />
+  <link rel="preload" as="image" href="/img/{{ .Site.Params.current }}/logo.png" />
+  <link rel="preload" as="image" href="/img/{{ .Site.Params.current }}/banner.jpg" />
+  <link rel="preload" as="image" href="/img/{{ .Site.Params.current }}/banner-mobile.jpg" />
   <!--Format pages titles-->
   {{ $title := print .Title " | " .Site.Title }} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }}
