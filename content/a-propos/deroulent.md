@@ -1,0 +1,3 @@
+## Où se déroulent les concerts ?
+
+L’intégralité des concerts se déroule dans la commune de Saint-Rivoal, entre l’église du bourg, les jarduns de l’écomusée et le hangar de la salle des fêtes. Quant à l’acoustique de l’église, elle est tout à fait remarquable et un grand nombre d’auditeurs et auditrices se sont réjouis l’an passé de pouvoir profiter d’un moment musical intime, puisque l’église ne contient qu’une centaine de places assises. Le festival est organisé en partenariat avec l’écomusée des Monts d’Arrée, qui met à disposition ses espaces d’accueil au public. C’est aussi dans le cadre magnifique des jardins de l’écomusée que se dérouleront plusieurs concerts en extérieur.

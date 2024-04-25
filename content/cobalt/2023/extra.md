@@ -1,0 +1,1 @@
+ Ainsi l’édition 2023 proposera un concert faisant la part belle à l’accordéon dans un style inattendu (la musique caribéenne), et un concert de musique du Rajasthan avec la présence d’un interprète de l’harmonium indien.

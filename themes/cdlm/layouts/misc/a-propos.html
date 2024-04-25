@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <div class="container--single">
+    <div class="container--single-content">
+      {{ (.Site.GetPage "/a-propos/_index").Content }}
+      {{ (.Site.GetPage (printf "/a-propos/%s/description_extra" (string .Site.Params.current))).Content }}
+      <h2>Le {{ .Site.Params.edition }} édition : {{ .Site.Params.date }} à Saint-Rivoal</h2>
+      {{ (.Site.GetPage (printf "/a-propos/%s/about" (string .Site.Params.current))).Content }}
+      {{ (.Site.GetPage "/a-propos/description").Content }}
+      {{ (.Site.GetPage (printf "/a-propos/%s/deroulent_extra" (string .Site.Params.current))).Content }}
+      {{ (.Site.GetPage "/a-propos/information").Content }}
+      {{ (.Site.GetPage (printf "/a-propos/%s/meal" (string .Site.Params.current))).Content }}
+    </div>
+  </div>
+{{ end }}
