@@ -2,15 +2,16 @@
   <div class="container--single">
     <div class="container--single-content">
       <h2>Artistes</h2>
-      {{ range $index, $section := .Pages.ByTitle.Reverse }}
-        <h3>{{ .Title }}</h3>
-        {{ if eq $index 0 }}
+      {{ range .Pages.ByTitle.Reverse }}
+        {{ if eq .Title (string .Site.Params.current) }}
+          <h3>{{ .Title }}</h3>
           <table>
             {{ range .Pages.ByDate }}
               <tr><td><a href="{{ .RelPermalink }}"><img src="{{ .Params.cover }}" alt="{{ .Title }}"/></a></td><td width="50%"><a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong><br>{{ .Date.Format "15h04 Monday 2 January" }}<br>{{ .Params.place }}<br>{{ .Description }}</a></td></tr>
             {{ end }}
           </table>
-        {{ else }}
+        {{ else if le (int .Title) .Site.Params.current }}
+          <h3>{{ .Title }}</h3>
           {{ if (gt (len .Pages) 0) }}
             <ul>
               {{ range .Pages.ByDate }}

@@ -1,7 +1,7 @@
 ---
 title: Programme
 type: misc
-layout: current
+layout: programme
 menus: main
 weight: 3
 ---

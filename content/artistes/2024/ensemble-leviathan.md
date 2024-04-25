@@ -3,7 +3,7 @@ title: Ensemble Léviathan
 cover: /img/2024/ensemble-leviathan/ensemble.jpg
 date: 2024-06-15T19:00:00
 place: Église de Saint-Rivoal
-description: "Musique Baroque ***: The Mad Lovers"
+description: "Concert Baroque: The Mad Lovers"
 type: misc
 layout: artiste
 ---

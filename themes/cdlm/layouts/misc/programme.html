@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <div class="container--single">
+    <div class="container--single-content">
+      <img src="/img/{{ .Site.Params.current }}/programme.jpg" alt="Claviers dans les Monts - {{ .Site.Params.edition }} édition - {{ .Site.Params.date }}"/>
+      <table cellspacing="10">
+        {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current))).Pages.ByDate }}
+          <tr><td style="width:20%"><img style="width:100%;display:block" src="{{ .Params.cover }}" alt={{ .Title }}/></td><td style="white-space: nowrap"><em>{{ .Date.Format "15h04 - 2 January" }}</em><br>{{ .Params.place }}</td><td>{{ .Title }}</td><td>{{ .Description }}</td></tr>
+        {{ end }}
+      </table>
+      <p>Concerts à <em>prix libre</em> et <em>sans reservations</em></p>
+      <p>Toute information supplémentaire - {{ .Site.Params.number }}</p>
+    </div>
+  </div>
+{{ end }}
