@@ -1,4 +1,4 @@
-* Affiche de l'édition 2023 réalisée par Thomas Paton.
+* Affiche de l'édition 2024 réalisée par Olwen Gilbert.
 * Hébergement [netlify](https://www.netlify.com).
 * Plateforme [helloasso](https://www.helloasso.com/)
 
