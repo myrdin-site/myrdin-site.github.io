@@ -1,27 +1,33 @@
 {{ define "main" }}
-  <div class="container--single">
-    <div class="container--single-content">
-      <h2>Artistes</h2>
-      {{ range .Pages.ByTitle.Reverse }}
-        {{ if eq .Title (string .Site.Params.current) }}
-          <h3>{{ .Title }}</h3>
-          <table>
-            {{ range .Pages.ByDate }}
-              <tr><td><a href="{{ .RelPermalink }}"><img src="{{ .Params.cover }}" alt="{{ .Title }}"/></a></td><td width="50%"><a href="{{ .RelPermalink }}"><strong>{{ .Title }}</strong><br>{{ .Date.Format "15h04 Monday 2 January" }}<br>{{ .Params.place }}<br>{{ .Description }}</a></td></tr>
-            {{ end }}
-          </table>
-        {{ else if le (int .Title) .Site.Params.current }}
-          <h3>{{ .Title }}</h3>
-          {{ if (gt (len .Pages) 0) }}
-            <ul>
-              {{ range .Pages.ByDate }}
-                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-              {{ end }}
-            </ul>
-          {{ end }}
-        {{ end }}
-      {{ .Content }}
-    {{ end }}
+<div class="container--single">
+  <div class="container--single-content">
+    <h2>Artistes</h2>
+    {{ range .Pages.ByTitle.Reverse }} {{ if eq .Title (string
+    .Site.Params.current) }}
+    <h3>{{ .Title }}</h3>
+    {{ range .Pages.ByDate }}
+    <div class="flex-container-artistes">
+      <div class="flex-items-artistes">
+        <img src="{{ .Params.cover }}" alt="" />
+      </div>
+      <div class="flex-items-artistes">
+        <a href="{{ .RelPermalink }}"
+          ><strong>{{ .Title}}</strong><br />
+          {{ dateFormat "2 Jan 15h04" .Date }}<br />
+          {{ .Params.place }}
+        </a>
+        <p><em>{{ .Description }}</em></p>
+      </div>
     </div>
+    {{ end }} {{ else if le (int .Title) .Site.Params.current }}
+    <h3>{{ .Title }}</h3>
+    {{ if (gt (len .Pages) 0) }}
+    <ul>
+      {{ range .Pages.ByDate }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }} {{ end }} {{ .Content }} {{ end }}
   </div>
+</div>
 {{ end }}
