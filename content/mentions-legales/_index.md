@@ -1,5 +1,5 @@
 ---
 title: Mentions légales
 type: misc
-layout: static
+layout: mentions-legales
 ---

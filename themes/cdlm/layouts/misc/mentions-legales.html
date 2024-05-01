@@ -1,0 +1,44 @@
+{{ define "main" }}
+  <div class="container--single">
+    <div class="container--single-content">
+      <h2>Prestataires</h2>
+      <ul>
+        {{ range (split (readFile (printf "/mentions-legales/%s/prestataires.txt" (string .Site.Params.current))) "\n") }}
+          {{ if strings.Contains . "http" }}
+            <li><a href="http{{ index (split . "http") 1 }}">{{ index (split . "http") 0 }}</a></li>
+          {{ else if eq (len .) 0 }}
+          {{ else }}
+            <li>{{ . }}</li>
+          {{ end }}
+        {{ end }}
+        {{ range (split (readFile "/mentions-legales/prestataires.txt") "\n") }}
+          {{ if strings.Contains . "http" }}
+            <li><a href="http{{ index (split . "http") 1 }}">{{ index (split . "http") 0 }}</a></li>
+          {{ else if eq (len .) 0 }}
+          {{ else }}
+            <li>{{ . }}</li>
+          {{ end }}
+        {{ end }}
+      </ul>
+      <h2>Publication</h2>
+      <ul>
+        {{ range (split (readFile (printf "/mentions-legales/%s/publication.txt" (string .Site.Params.current))) "\n") }}
+          {{ if strings.Contains . "http" }}
+            <li><a href="http{{ index (split . "http") 1 }}">{{ index (split . "http") 0 }}</a></li>
+          {{ else if eq (len .) 0 }}
+          {{ else }}
+            <li>{{ . }}</li>
+          {{ end }}
+        {{ end }}
+        {{ range (split (readFile "/mentions-legales/publication.txt") "\n") }}
+          {{ if strings.Contains . "http" }}
+            <li><a href="http{{ index (split . "http") 1 }}">{{ index (split . "http") 0 }}</a></li>
+          {{ else if eq (len .) 0 }}
+          {{ else }}
+            <li>{{ . }}</li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+{{ end }}
