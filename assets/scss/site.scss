@@ -143,6 +143,9 @@ li {
   align-items: normal;
   align-content: center;
   width: 18rem;
+  img {
+    width: 95% !important;
+  }
 }
 
 .flex-items-artistes:nth-child(1) {
