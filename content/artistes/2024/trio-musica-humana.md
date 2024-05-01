@@ -3,7 +3,7 @@ title: Trio Musica Humana + Elisabeth Geiger
 cover: /img/2024/trio-musica-humana/TMH.webp
 date: 2024-06-15T16:00:00
 place: Balade
-description: Balade et chant renaissance
+description: Balade renaissance
 type: misc
 layout: artiste
 ---

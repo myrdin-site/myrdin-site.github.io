@@ -3,7 +3,7 @@ title: Marcia Hadjimarkos
 cover: /img/2021/marcia.jpeg
 date: 2024-05-14T19:00:00
 place: Église de Saint-Rivoal
-description: "Musique minimaliste: Murmurations"
+description: Minimalisme au piano 
 type: misc
 layout: artiste
 ---
