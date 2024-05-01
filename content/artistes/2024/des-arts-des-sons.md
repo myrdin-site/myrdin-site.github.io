@@ -3,7 +3,7 @@ title: DES ARTS∙DES SONS
 cover: /img/2024/des-arts-des-sons/_DSC7663.jpg
 date: 2024-06-15T14:00:00
 place: Jardins de l'ecomusée
-description: Pause café et sieste sonore
+description: Bain sonore 
 type: misc
 layout: artiste
 ---

@@ -3,7 +3,7 @@ title: Marcia Hadjimarkos
 cover: /img/2021/marcia.jpeg
 date: 2024-05-14T19:00:00
 place: Église de Saint-Rivoal
-description: "Musique minimaliste: Murmurations"
+description: Minimalisme au piano 
 type: misc
 layout: artiste
 ---
@@ -19,5 +19,3 @@ Elle anime des master classes autour du piano historique et du clavicorde dans d
 Ses enregistrements de Mozart, Haydn, C.P.E. Bach, Schubert, et de la musique viennoise pour czakan et piano sont accueillis avec enthousiasme et recoivent des récompenses dont un Diapason d’Or. L’album "Hélène de Montgeroult, Portrait d’une compositrice visionnaire", sorti en 2023, comprend des œuvres solo et de chambre de la compositrice  jouées sur un piano carré de 1817. Un deuxième album, "Murmurations", sort aussi en 2023. Le concert qui aura lieu à Claviers dans les Monts est inspiré par cet enregistrement, qui explore l'univers des compositeurs minimalistes des 20e et 21e siècles. Marcia joue aussi du piano jouet et de l’harmonium, notamment dans le programme "Toy Toy" qu’elle crée avec le flûtiste Michael Copley.
  
 Très impliquée dans la vie musicale en Bourgogne, Marcia participe à d’innombrables concerts dans la région; et en organise elle-même plus de 150. Elle est membre fondateur de l’association Tendances Clavier, qui propose des événements autour de la grande famille des instruments à clavier depuis 1990. Elle est professeur de piano moderne dans de nombreuses structures, de l’école associative jusqu’aux CRR, et s’installe comme professeur à son compte en 2013.
-
-

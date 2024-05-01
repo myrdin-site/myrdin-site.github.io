@@ -4,7 +4,7 @@
       {{ (.Site.GetPage "/cobalt/_index").Content }}
       {{ (.Site.GetPage (printf "/cobalt/%s/extra" (string .Site.Params.current))).Content }}
       {{ (.Site.GetPage "/cobalt/adherer").Content }} 
-      Suivez <a href="{{ .Site.Params.helloasso }}">le lien vers la plateforme helloasso</a>
+      <p>Suivez <a href="{{ .Site.Params.helloasso }}">le lien vers la plateforme helloasso</a></p>
     </div>
   </div>
 {{ end }}

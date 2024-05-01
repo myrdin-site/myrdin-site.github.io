@@ -3,7 +3,7 @@ title: Phil Walter Trio
 cover: /img/2024/phil-walter-trio/phil-au-piano.jpg
 date: 2024-06-15T20:30:00
 place: Salle des fetes
-description: Cave à Jazz à St. Rivoal
+description: Concert jazz et jam session
 type: misc
 layout: artiste
 ---

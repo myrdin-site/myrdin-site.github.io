@@ -121,6 +121,7 @@ li {
   flex-grow: 0;
   flex-shrink: 1;
   flex-basis: auto;
+  width: 5rem;
   order: 0;
 }
 
@@ -130,4 +131,36 @@ li {
   flex-shrink: 1;
   flex-basis: auto;
   order: 0;
+}
+
+//Flex artistes
+
+.flex-container-artistes {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: normal;
+  align-items: normal;
+  align-content: center;
+  width: 18rem;
+}
+
+.flex-items-artistes:nth-child(1) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+  margin-bottom: 1rem;
+}
+
+.flex-items-artistes:nth-child(2) {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+  margin-bottom: 1rem;
 }
