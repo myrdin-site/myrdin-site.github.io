@@ -23,8 +23,6 @@ Jacques Pessis, elle s’éprend d’un goût pour le monde de la chanson et du 
 En ce jour, c’est auprès du chanteur-compteur-comédien THOMAS FERSEN qu’elle part en
 tournée avec un nouveau spectacle « MON FRÈRE, C’EST DIEU SUR TERRE ».
 
-![](/img/2023/coumabbas.png)
-
 **Benjamin Coum** (piano), Brestois d’origine, Benjamin est captivé très jeune par l’océan, la nature  les arts martiaux… et la culture hip-hop qu’il assimile longuement avant d’embrasser d’autres aventures. Cette conscience du « rythme » acquise, il appréhende avec un regard novateur la musique cubaine et le jazz qu’il intègre à ses compositions. Parallèlement à un travail de production et de création permanent, ses expériences se portent  vers la soul/funk ainsi que le reggae. Lorsqu’il rencontre la musique Cubaine, il étudie et collabore aux côtés du trompettiste cubain Barbaro Teuntor Garcia (Sierra Maestra, Afrocuban All Star, Septeto Habanero) avec « Rumbayazz » et « Sol Natural » et devient une référence dans le domaine. Il développera ses recherches aux côtés du chanteur et contrebassiste Orwin Galan et achèvera sa formation lors d'un voyage d'étude à NYC aux cotés de Jhair Sala et Ariacne Trujillo.
 
 Lorsqu'il rencontre la musique Africaine, il étudie et collabore avec Sambou Kouyate, joueur de Kora originaire de Guinée. De cette rencontre naitra une amitié ainsi qu'un projet: Dia. Stoppé en plein envol par le décès de Sambou.
