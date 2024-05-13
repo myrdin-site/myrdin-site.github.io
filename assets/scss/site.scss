@@ -167,3 +167,7 @@ li {
   order: 0;
   margin-bottom: 1rem;
 }
+
+body > div > div > div > ul > li:nth-child(2) {
+  margin-bottom: 1rem;
+}
