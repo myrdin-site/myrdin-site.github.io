@@ -1,6 +1,6 @@
 ---
 title: Marcia Hadjimarkos
-cover: /img/2021/marcia-tabouret.jpg
+cover: /img/2024/marcia-tabouret.jpg
 date: 2024-05-14T20:00:00
 place: Église de Saint-Rivoal
 description: Minimalisme au piano 
