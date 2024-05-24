@@ -81,6 +81,26 @@ li {
 
 //Flex
 
+@media only screen and (min-width: 600px)
+{
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 1rem;
+  align-content: space-around;
+}
+
+.flex-items {
+  align-self: center;
+  margin: 0 1rem;
+  width:25%;
+}
+}
+@media only screen and (max-width:600px)
+{ 
 .flex-container {
   display: flex;
   flex-direction: row;
@@ -94,12 +114,13 @@ li {
 .flex-items {
   align-self: center;
   margin: 0 1rem;
+  width:100%;
+}
 }
 
 .flex-items:nth-child(1) {
   display: block;
   margin-left: 0;
-  width: 18rem;
   flex-shrink: 1;
   flex-basis: auto;
   order: 0;
@@ -121,7 +142,6 @@ li {
   flex-grow: 0;
   flex-shrink: 1;
   flex-basis: auto;
-  width: 5rem;
   order: 0;
 }
 
