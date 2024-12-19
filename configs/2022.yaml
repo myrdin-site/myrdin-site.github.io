@@ -9,15 +9,15 @@ markup:
     renderer:
       unsafe: true
 params:
-  current: 2025
-  edition: "5ème"
-  date: "13 et 14 Juin 2025"
+  current: 2022
+  edition: "2ème"
+  date: "10 et 11 Juin 2022"
   number: "06.07.74.56.21"
-  helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-5eme-edition-2025
-  stage: false
+  helloasso: https://www.helloasso.com/associations/ensemble-cobalt
+  stage: true
   theme:
-    banner_bg: "#a38921"                                                                                                             
+    banner_bg: "#a3a3a3"                                                                                                             
     banner_text: "#ffffff"                                                                                                            
     body_text: "#220d00"                                                                                                              
-    body_bg: "#fff9e3"
+    body_bg: "#828282"
     container: "70vw" 
