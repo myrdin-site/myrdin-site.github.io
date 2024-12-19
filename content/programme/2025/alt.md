@@ -1,1 +1,1 @@
-CLAVIERS DANS LES MONTS - SAINT RIVOAL les 14 & 15 juin 2024 - 4eme édition! - Un festival à la découverte des claviers : pianos, clavecins, muselaar... et chant - Concerts à PRIX LIBRE sans réservation. Plus d'information au 06.07.74.56.21 et sur claviersdanslesmonts.fr
+
