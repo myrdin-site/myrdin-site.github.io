@@ -1,10 +1,11 @@
+@use "hugo:vars" as h;
 // Width
 
 $container: 70vw;
 
 // Colors
 
-$banner-bg: #4f833f;
-$banner-text: #ffffff;
-$body-text: #220d00;
-$body-bg: #FDFBDF;
+//$banner-bg: h.${{ default "white" .Site.Params.Colours.banner-bg }};
+//$banner-text: {{ default "black" .Site.Params.Colours.banner-text }};
+//$body-text: {{ defalut "black" .Site.Params.Colours.body-text }};
+//$body-bg: {{ default "white" .Site.Params.Colours.body-bg }};

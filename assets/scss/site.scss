@@ -1,3 +1,5 @@
+@use "hugo:vars" as h;
+
 /* playfair-display-500 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -48,8 +50,8 @@ html {
 
 // Colors
 body {
-  background-color: $body-bg;
-  color: $body-text;
+  background-color: h.$body_bg;
+  color: h.$body_text;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
