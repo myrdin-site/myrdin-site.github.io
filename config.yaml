@@ -16,7 +16,7 @@ params:
   helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-4eme-edition-2024
   stage: false
   theme:
-    banner_bg: "#eb4034"                                                                                                             
+    banner_bg: "#4f833f"                                                                                                             
     banner_text: "#ffffff"                                                                                                            
     body_text: "#220d00"                                                                                                              
     body_bg: "#FDFBDF"
