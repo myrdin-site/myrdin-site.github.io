@@ -36,13 +36,12 @@
   <!--{{ $sass := resources.Get "scss/main.scss" }} {{ $style := $sass |
   resources.ToCSS (dict "enableSourceMap" true) | resources.Fingerprint }}-->
   {{ $options := dict "targetPath" "css/style.css" "transpiler" "dartsass" "vars" .Site.Params.theme }}
-  {{ with resources.Get "scss/main.scss" | css.Sass $options }}
+  {{ $css := resources.Get "scss/main.scss" | css.Sass $options }}
   <link
     rel="stylesheet"
-    href="{{ .RelPermalink }}"
+    href="{{ .Site.BaseURL }}{{ $css.RelPermalink }}"
   />
   <!--integrity="{{ $style.Data.Integrity }}"-->
-  {{ end }}
   <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/logo.png" />
   <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/banner.jpg" />
   <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/banner-mobile.jpg" />
