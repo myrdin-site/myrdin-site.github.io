@@ -1,3 +1,5 @@
+@use "hugo:vars" as h;
+
 // Skip link
 .skip--link {
   display: inline-block;
@@ -17,10 +19,10 @@
 
 header {
   border-bottom: 1px solid black;
-  background-color: $banner-bg;
+  background-color: h.$banner_bg;
   z-index: 1;
   a {
-    color: $banner-text;
+    color: h.$banner_text;
     &:hover {
       text-decoration: underline;
     }
@@ -60,7 +62,7 @@ header {
   align-items: center;
   border: 1px solid black;
   border-radius: 50%;
-  background-color: $banner-text;
+  background-color: h.$banner_text;
 }
 
 .banner--icon {

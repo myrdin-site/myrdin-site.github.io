@@ -1,6 +1,8 @@
+@use "hugo:vars" as h;
+
 @media (min-width: 1024px) {
   .banner {
-    max-width: $container;
+    max-width: h.$container;
   }
   .nav--container-list {
     max-width: 90vw;
@@ -9,7 +11,7 @@
   }
   .hero {
     position: relative;
-    max-width: $container;
+    max-width: h.$container;
     .hero--loup {
       position: absolute;
       display: block;
@@ -18,13 +20,13 @@
     }
   }
   .index--content {
-    max-width: $container;
+    max-width: h.$container;
   }
   .carousel img {
     width: 22vw;
   }
   .container--single {
-    width: $container;
+    width: h.$container;
     .container--single-content {
       width: 60vw;
     }

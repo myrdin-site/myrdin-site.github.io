@@ -23,14 +23,8 @@
           system = "riscv64-linux"; 
         };
       };
-      sqrl = ps : ps.buildPythonPackage {
-        name = "sqrl";
-        src = ".";
-        propagatedBuildInputs = with ps; [
-          jax
-        ];
-      };
       modules = pkgs: with pkgs; [ 
+        dart-sass
         hugo
       ];
     in {

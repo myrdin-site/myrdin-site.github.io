@@ -1,5 +1,7 @@
+@use "hugo:vars" as h;
+
 @media (min-width: 1536px) {
   .nav--container-list {
-    max-width: $container;
+    max-width: h.$container;
   }
 }

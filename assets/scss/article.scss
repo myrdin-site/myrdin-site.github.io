@@ -1,5 +1,7 @@
+@use "hugo:vars" as h;
+
 main {
   img {
-    border: 1px solid $body-text;
+    border: 1px solid h.$body_text;
   }
 }
