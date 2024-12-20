@@ -1,3 +1,5 @@
+@use "hugo:vars" as h;
+
 .hero {
   min-height: 8rem;
   margin-left: 0.4rem;
@@ -17,7 +19,7 @@
     text-transform: uppercase;
     padding: 0.6rem;
     margin-bottom: 1rem;
-    background-color: #248917;
+    background-color: h.$banner_bg;
     color: white;
     font-size: 1rem;
     border-radius: 5px;
@@ -30,7 +32,7 @@
     text-transform: uppercase;
     margin-bottom: 2rem;
     font-size: 1rem;
-    border-bottom: 2px solid #248917;
+    border-bottom: 2px solid h.$banner_bg;
     &:hover {
       border-bottom: 2px solid transparent;
     }

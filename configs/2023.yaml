@@ -1,0 +1,23 @@
+baseURL: https://claviersdanslesmonts.fr
+languageCode: fr
+title: Claviers Dans Les Monts
+theme: cdlm
+defaultContentLanguage: fr
+buildFuture: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  current: 2023
+  edition: "3ème"
+  date: "16 et 17 Juin 2023"
+  number: "06.61.09.61.15"
+  helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/soutien-au-festival-claviers-dans-les-monts-3eme-edition
+  stage: true
+  theme:
+    banner_bg: "#383427"           
+    banner_text: "#ffffff"
+    body_text: "#220d00"
+    body_bg: "#e3d9bc"
+    container: "70vw"
