@@ -15,8 +15,8 @@
             {{ if ne .Title $thisTitle }}
                 <div class="carousel--item">
                     <a href="{{ .RelPermalink }}">
-                        {{ with .Params.cover }}
-                            <img src="{{ . }}" alt="" />
+                        {{ with $img := strings.Replace .Params.cover ".." .Site.BaseURL }}
+                            <img src="{{ $img }}" alt="" />
                         {{ end }}
                         <h3>{{ .Title }}</h3>
                     </a>
