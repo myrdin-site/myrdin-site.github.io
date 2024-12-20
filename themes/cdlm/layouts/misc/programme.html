@@ -2,7 +2,7 @@
 <div class="container--single">
   <div class="container--single-content">
     <img
-      src="/img/{{ .Site.Params.current }}/programme.jpg"
+      src="../img/{{ .Site.Params.current }}/programme.jpg"
       alt="{{ chomp (.Site.GetPage (printf "/programme/%s/alt" (string .Site.Params.current))).Content }}"
     />
     {{ range (.Site.GetPage (printf "/artistes/%s" (string

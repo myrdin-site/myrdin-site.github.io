@@ -1,6 +1,6 @@
 ---
 title: Jean Rondeau
-cover: /img/2023/jean-rondeau.png
+cover: ../img/2023/jean-rondeau.png
 date: 2023-06-16T20:30:00
 place: Église de Saint-Rivoal
 description: "Variations Goldberg au clavecin et autre surprises..."
@@ -14,7 +14,7 @@ Jean Rondeau est claveciniste, pianiste et compositeur multi-récompensé. Music
 
 Jean Rondeau se forme au Conservatoire National Supérieur de Musique de Paris où il étudie le clavecin auprès de Blandine Verlet pendant de nombreuses années, et reçoit un enseignement en basse-continue, orgue, piano, jazz et improvisation, écriture, et en direction de chœur. Après avoir obtenu les prix de composition et de contrepoint au Conservatoire à Rayonnement Régional de Paris, il se voit décerner la mention Très Bien à l’unanimité pour le Prix de Clavecin et le Prix de Basse Continue au CNSM. Il se perfectionne par la suite à la Guidhall School of Music and Drama de Londres, et suit les master-classes de Christophe Rousset à Sienne et Florence. 
 
-![](/img/2023/rondeau-jean-4912-2a-c-baghir.jpg.webp)
+![](../img/2023/rondeau-jean-4912-2a-c-baghir.jpg.webp)
 
 Jean Rondeau commence alors à se produire en tant que soliste dans les plus grands villes et festivals d’Europe (France, Italie, Angleterre, Autriche, Pologne…) ainsi qu'aux États-Unis. Il donne par ailleurs des concerts avec l’ensemble Les Ambassadeurs dirigé par Alexis Kossenko[ ](https://www.francemusique.fr/personne/alexis-kossenko)et l’ensemble baroque Nevermind qu'il fonde avec Anna Besson (flûte), Louis Creac’h (violon) et Robin Pharo (viole de gambe), ses anciens camarades du CNSM. Il est également à l'initiative du groupe Note Forget, un quartet de jazz dans lequel il met en avant ses qualités de pianiste.
 

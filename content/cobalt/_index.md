@@ -6,7 +6,7 @@ menus: main
 weight: 6
 ---
 
-![Ensemble Cobalt](/img/cobalt.png#noborder)
+![Ensemble Cobalt](../img/cobalt.png#noborder)
 
 ## À propos de l'association Cobalt
 

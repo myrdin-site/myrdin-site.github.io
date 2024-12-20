@@ -1,6 +1,6 @@
 ---
 title: Marcia Hadjimarkos
-cover: /img/2024/marcia-hadjimarkos/marcia-tabouret.jpg
+cover: ../img/2024/marcia-hadjimarkos/marcia-tabouret.jpg
 date: 2024-06-14T20:00:00
 place: Église de Saint-Rivoal
 description: Minimalisme au piano 
@@ -14,7 +14,7 @@ Elle accompagne des chanteurs (Emma Kirkby, Beth Taylor, Julianne Baird, Marie F
  
 Elle anime des master classes autour du piano historique et du clavicorde dans de nombreux conservatoires français et étrangers, et se produit à La Roque d’Anthéron, à l’Arsenal de Metz, aux Journées Musicales d’automne, à La Turbine, pour Clavecin en France et les Goûts Réunis, au Festival Autonno Musicale a Como, aux Rencontres Internationales harmoniques, aux Schlosskonzerte Bad Krozingen, à la Folle Journée, au Festival de Sablé, à Bach en Combrailles, à Rutgers University, the National Music Museum, et The Institute for Advanced Study. Elle participe également à la commémoration du 250e anniversaire d’Hélène de Montgeroult au CNSMDP, et au colloque sur Maria Szymanowska et son temps à l’Institut Polonais.
  
-![Marcia Hadjimarkos](/img/2024/marcia-hadjimarkos/marcia.jpg)
+![Marcia Hadjimarkos](../img/2024/marcia-hadjimarkos/marcia.jpg)
 
 Ses enregistrements de Mozart, Haydn, C.P.E. Bach, Schubert, et de la musique viennoise pour czakan et piano sont accueillis avec enthousiasme et recoivent des récompenses dont un Diapason d’Or. L’album "Hélène de Montgeroult, Portrait d’une compositrice visionnaire", sorti en 2023, comprend des œuvres solo et de chambre de la compositrice  jouées sur un piano carré de 1817. Un deuxième album, "Murmurations", sort aussi en 2023. Le concert qui aura lieu à Claviers dans les Monts est inspiré par cet enregistrement, qui explore l'univers des compositeurs minimalistes des 20e et 21e siècles. Marcia joue aussi du piano jouet et de l’harmonium, notamment dans le programme "Toy Toy" qu’elle crée avec le flûtiste Michael Copley.
  
