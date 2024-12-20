@@ -1,6 +1,6 @@
 ---
 title: Gaël et Marianne
-cover: ../img/2023/gael-marianne.png
+cover: img/2023/gael-marianne.png
 date: 2023-06-17T16:30:00
 place: Jardins de l'écomusée
 description: Chansons melancolique

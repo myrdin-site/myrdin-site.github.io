@@ -1,6 +1,6 @@
 ---
 title: Jean Rondeau
-cover: ../img/2023/jean-rondeau.png
+cover: img/2023/jean-rondeau.png
 date: 2023-06-16T20:30:00
 place: Église de Saint-Rivoal
 description: "Variations Goldberg au clavecin et autre surprises..."

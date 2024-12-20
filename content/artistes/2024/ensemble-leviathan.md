@@ -1,6 +1,6 @@
 ---
 title: Ensemble Léviathan
-cover: ../img/2024/ensemble-leviathan/ensemble.jpg
+cover: img/2024/ensemble-leviathan/ensemble.jpg
 date: 2024-06-15T16:00:00
 place: Église de Saint-Rivoal
 description: Concert Baroque 

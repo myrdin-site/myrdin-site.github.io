@@ -1,6 +1,6 @@
 ---
 title: Phil Walter Trio
-cover: ../img/2024/phil-walter-trio/phil-au-piano.jpg
+cover: img/2024/phil-walter-trio/phil-au-piano.jpg
 date: 2024-06-15T21:00:00
 place: Salle des fetes
 description: Concert jazz et jam session

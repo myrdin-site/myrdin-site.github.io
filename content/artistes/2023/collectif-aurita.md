@@ -1,6 +1,6 @@
 ---
 title: Collectif Aurita
-cover: ../img/2023/collectif-aurita.png
+cover: img/2023/collectif-aurita.png
 date: 2023-06-17T20:30:00
 place: Jardins de l'écomusée
 description: "Theatre, trapeze et musique: Étoffer la nuit"

@@ -1,6 +1,6 @@
 ---
 title: Ganesha Nâga
-cover: ../img/2023/ganesha-naga.png
+cover: img/2023/ganesha-naga.png
 date: 2023-06-17T21:30:00
 place: Église de Saint-Rivoal
 description: Musique indenne mélange avec l'esprit de l'improvisation jazz

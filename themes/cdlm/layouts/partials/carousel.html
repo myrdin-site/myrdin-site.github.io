@@ -2,9 +2,7 @@
   {{ range (.Site.GetPage (printf "/artistes/%s" (string .Site.Params.current))).Pages.ByDate }}
     <div class="carousel--item">
       <a href="{{ .RelPermalink }}">
-        {{ with $img := strings.Replace .Params.cover ".." .Site.BaseURL }}
-          <img src="{{ $img }}" alt="" />
-        {{ end }}
+        <img src="{{ .Site.BaseURL }}{{ .Params.cover }}" alt="" />
         <h3>{{ .Title }}</h3>
       </a>
     </div>

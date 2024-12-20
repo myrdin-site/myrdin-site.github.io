@@ -1,6 +1,6 @@
 ---
 title: Benjamin Coum et Maryll Abbas
-cover: ../img/2023/coumabbas.png
+cover: img/2023/coumabbas.png
 date: 2023-06-17T18:00:00
 place: Jardins de l'écomusée
 description: Jazz aux rives des musiques latines
