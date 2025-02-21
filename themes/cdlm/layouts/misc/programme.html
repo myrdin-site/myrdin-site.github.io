@@ -2,13 +2,13 @@
 <div class="container--single">
   <div class="container--single-content">
     <img
-      src="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/programme.jpg"
+      src="/img/{{ .Site.Params.current }}/programme.jpg"
       alt="{{ chomp (.Site.GetPage (printf "/programme/%s/alt" (string .Site.Params.current))).Content }}"
     />
     {{ range (.Site.GetPage (printf "/artistes/%s" (string
     .Site.Params.current))).Pages.ByDate }}
     <div class="flex-container">
-      <div class="flex-items"><img src="{{ .Site.BaseURL }}{{ .Params.cover }}" alt="" /></div>
+      <div class="flex-items"><img src="{{ .Params.cover }}" alt="" /></div>
       <div class="flex-items">{{ dateFormat "2 Jan 15h04" .Date }}</div>
       <div class="flex-items">{{ .Params.place }}</div>
       <div class="flex-items">

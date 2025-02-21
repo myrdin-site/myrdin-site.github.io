@@ -1,6 +1,6 @@
 ---
 title: Ensemble Léviathan
-cover: img/2024/ensemble-leviathan/ensemble.jpg
+cover: /img/2024/ensemble-leviathan/ensemble.jpg
 date: 2024-06-15T16:00:00
 place: Église de Saint-Rivoal
 description: Concert Baroque 
@@ -40,7 +40,7 @@ L’Ensemble Leviathan propose de découvrir cet univers musical des amants épl
 | Lascia ch’io pianga (transcription pour clavecin seul) | G. F. Handel   |
 
 ### Eugénie Lefebvre, soprano
-![Eugénie Lefebvre](../img/2024/ensemble-leviathan/eugenie.jpg)
+![Eugénie Lefebvre](/img/2024/ensemble-leviathan/eugenie.jpg)
 
 Premier prix du Concours international Corneille en 2017 et lauréate du Concours international de chant baroque de Froville en 2013, Eugénie Lefebvre fait ses études au Centre de Musique Baroque de Versailles, puis à la Guildhall School of Music and Drama de Londres.
 ​
@@ -53,7 +53,7 @@ Avec l'Escadron Volant de la Reine dont elle est une des têtes pensantes, plusi
 De nombreux enregistrements sont à paraître en 2023 sous les label CVS, Alpha et Oktav Records : Egisto de Cavalli avec le Poème Harmonique, Psyché de Lully avec les Talens Lyriques, Cantates autour d'Orphée avec les Musiciens du Roy, Hambourg 1700 avec Acte 6, Miserere de Scarlatti avec l'Escadron Volant de la Reine, Leçons de Ténèbres de Fiocco, Pollio et Lalande avec le Léviathan, Une nuit à Venise avec les Surprises. 
 
 ### Lucile Tessier, flûte à bec, hautbois et direction artistique
-![Lucile Tessier](../img/2024/ensemble-leviathan/lucile.jpg)
+![Lucile Tessier](/img/2024/ensemble-leviathan/lucile.jpg)
 
 Multi-instrumentiste passionnée par les diverses couleurs de la musique ancienne, Lucile Tessier se forme dans plusieurs conservatoires européens, notamment les CNSM de Paris et de Lyon et la Schola Cantorum de Bâle. Elle y étudie la flûte à bec, ainsi que les bassons anciens, les hautbois anciens et le chant. 
 Elle se produit maintenant au hautbois, au basson et à la flûte à bec avec des ensembles français comme l’ensemble Pygmalion, le Concert Spirituel, le Poème Harmonique, les Musiciens de Saint-Julien, la Tempête, les Arts Florissants, Les Surprises…mais aussi à l’étranger (Amsterdam Baroque Orchestra, Concerto Copenhagen, Irish Baroque Orchestra). Elle s’intéresse également à la recherche musicologique, et a débuté en 2016 une thèse à l’Université Sorbonne-Paris 4, sur la Folie dans la musique de scène anglaise. Parallèlement à ce travail théorique, elle fonde en 2016 l’ensemble Leviathan, qui se produit depuis sur de nombreuses scènes françaises et européennes. L’ensemble a déjà enregistré 3 disques : le dernier, « The Mad Virgin », sortira en novembre 2024 sous le label Oktav Records.
@@ -74,6 +74,6 @@ Son goût pour la musique ancienne ainsi qu’une rencontre décisive avec la vi
 Parallèlement, elle suit la Formation Supérieure aux Métiers du Son du CNSMDP puis travaille pour des productions discographique pour Virgin Classics, Sony, Naïve, Paraty, Eurydice, Psalmus ou des retransmissions en direct de concerts et d’opéras (Festival d’art lyrique d’Aix-en-Provence, Verbier, Orchestre de Paris, Capitole de Toulouse, ONBA, Orchestre de Lille…) pour Radio Classique, Medici TV ou Arte Live Web.
 A la viole, elle se produit régulièrement en concert avec l’Achéron, Hemiolia, Le Concert des Planètes, Consort de la Belle-Feuille, La Bellezza…
 
-![Ensemble Léviathan](../img/2024/ensemble-leviathan/ensemble2.jpg)
+![Ensemble Léviathan](/img/2024/ensemble-leviathan/ensemble2.jpg)
 
 [![Ensemble Léviathan](https://img.youtube.com/vi/hCY1PLVHlXw/0.jpg)](https://www.youtube.com/watch?v=hCY1PLVHlXw "Ensemble Léviathan")

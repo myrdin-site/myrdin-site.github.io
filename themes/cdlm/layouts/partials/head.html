@@ -39,12 +39,12 @@
   {{ $css := resources.Get "scss/main.scss" | css.Sass $options }}
   <link
     rel="stylesheet"
-    href="{{ .Site.BaseURL }}{{ $css.RelPermalink }}"
+    href="{{ $css.RelPermalink }}"
   />
   <!--integrity="{{ $style.Data.Integrity }}"-->
-  <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/logo.png" />
-  <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/banner.jpg" />
-  <link rel="preload" as="image" href="{{ .Site.BaseURL }}img/{{ .Site.Params.current }}/banner-mobile.jpg" />
+  <link rel="preload" as="image" href="img/{{ .Site.Params.current }}/logo.png" />
+  <link rel="preload" as="image" href="img/{{ .Site.Params.current }}/banner.jpg" />
+  <link rel="preload" as="image" href="img/{{ .Site.Params.current }}/banner-mobile.jpg" />
   <!--Format pages titles-->
   {{ $title := print .Title " | " .Site.Title }} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }}

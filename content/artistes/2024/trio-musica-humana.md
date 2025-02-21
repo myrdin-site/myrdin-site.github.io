@@ -1,6 +1,6 @@
 ---
 title: Trio Musica Humana + Elisabeth Geiger
-cover: img/2024/trio-musica-humana/TMH.webp
+cover: /img/2024/trio-musica-humana/TMH.webp
 date: 2024-06-15T18:30:00
 place: Balade
 description: Balade renaissance
@@ -44,7 +44,7 @@ Bon voyage...
 
 ### le Trio Musica Humana
 
-![Trio Musica Humana](../img/2024/trio-musica-humana/TMH.jpg)
+![Trio Musica Humana](/img/2024/trio-musica-humana/TMH.jpg)
 
 Digne héritier du célèbre ensemble Clément Janequin, le TMH (Trio Musica Humana) explore avec une rare intensité le répertoire passionnant de la musique à trois voix de la Renaissance, redonnant vie à ces œuvres par une interprétation truculente, passionnante et non dénuée d’humour.
 

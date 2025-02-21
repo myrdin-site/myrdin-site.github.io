@@ -1,6 +1,6 @@
 ---
 title: DES ARTS∙DES SONS
-cover: img/2024/des-arts-des-sons/_DSC7663.jpg
+cover: /img/2024/des-arts-des-sons/_DSC7663.jpg
 date: 2024-06-15T14:00:00
 place: Jardins de l'ecomusée
 description: Bain sonore 
@@ -8,7 +8,7 @@ type: misc
 layout: artiste
 ---
 ## Fanny Vantomme
-![Fanny Vantomme](../img/2024/des-arts-des-sons/_DSC7658.jpg)
+![Fanny Vantomme](/img/2024/des-arts-des-sons/_DSC7658.jpg)
 
 Sonothérapeute et art thérapeute certifiée, Fanny a créé DES ARTS∙DES SONS en mars 2022. Elle choisit de travailler particulièrement avec la vibration des bols tibétains, instrument connu pour ses fréquences apaisantes, tant sur un plan physique que psychique. Son expérience de musicienne, pédagogue, coordinatrice de projets culturels, mais aussi sa sensibilité aux arts et à la créativité l’amènent aujourd’hui à diffuser le son autour d’elle dans un cadre d'accompagnement et de soin.
 

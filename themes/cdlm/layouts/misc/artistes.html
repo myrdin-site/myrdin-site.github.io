@@ -8,7 +8,7 @@
     {{ range .Pages.ByDate }}
     <div class="flex-container-artistes">
       <div class="flex-items-artistes">
-        <img src="{{ .Site.BaseURL }}{{ .Params.cover }}" alt="" />
+        <img src="{{ .Params.cover }}" alt="" />
       </div>
       <div class="flex-items-artistes">
         <a href="{{ .RelPermalink }}"
