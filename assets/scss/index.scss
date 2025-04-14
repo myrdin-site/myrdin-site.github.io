@@ -49,8 +49,12 @@
   }
 
   .banner--img-mobile {
+    display: block;
+    position: relative;
     margin: auto;
-    width: 92vw;
+    border: none;
+    width: 100vw;
+    left: calc(-50vw + 50%);
   }
 }
 

@@ -3,7 +3,7 @@ title: Björn Gottschall
 cover: /img/2025/bjorn-gottschall/tmp.jpg
 date: 2025-06-13T21:00:00
 place: Jardin de l'écomusée
-description: Piano mobile 
+description: Pianiste itinérant
 type: misc
 layout: artiste
 ---
@@ -16,12 +16,10 @@ En été 2024, Björn se lance dans un projet un peu fou : traverser la France �
 Chaque concert est devenu une expérience sonore unique, façonnée par les nuances du lieu, le temps et les émotions du moment. Cette musique se fondait harmonieusement dans l'atmosphère qui l'entourait.
 
 "Musique pour Herbes Folles" s'est déroulée comme une aventure musicale moderne, riche en facettes et une exploration artistique qui a transcendé les frontières traditionnelles de l'interprétation musicale.
-En chiffres :
-  - __1400 km__ à vélo avec son piano
-  - Plus de __3,5 millions d'écoutes__ sur les plateformes musicales (Apple Music, Spotify, etc.)
-  - Plus de __10 000 followers__ sur les reseaux sociaux (Instagram, TikTok, Facebook)
-  - Plus de __100 000 vues__ sur YouTube
-  - Une moyenne de __2 000 vues__ par post "Reel" sur Instagram
+
+Le piano ne s’écoute pas seulement dans les salles de concert mais aussi en plein air ! Björn Gottschall, compositeur et interprète, veut tordre les codes, il rend son instrument mobile et l’amène dans des endroits au cadre spectaculaire comme en bord de mer, dans les jardins, en forêt… Là ou Björn considère que sa musique trouve sa place et s’harmonise avec l’atmosphère du lieu il transporte son piano et s’adapte au lieu, à l’ambiance et au temps.
+
+La nature devient salle de spectacle et le passant un spectateur.
   
 [![Björn Gottschall](https://img.youtube.com/vi/Fy_r9fdAySo/0.jpg)](https://www.youtube.com/watch?v=Fy_r9fdAySo "Björn Gottschall")
 [![Björn Gottschall](https://img.youtube.com/vi/q2Lr6cnGKeg/0.jpg)](https://www.youtube.com/watch?v=q2Lr6cnGKeg "Björn Gottschall")
