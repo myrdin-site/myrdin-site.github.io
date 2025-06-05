@@ -13,12 +13,30 @@ Pour ce nouveau partenariat le festival Claviers dans les Monts offre à de jeun
 
 ## Artistes
 
-### Caymi VAN REES (France) 10 ans
+### Categorie Jeunes Talents
 
-### Nora KOSTENKO (Ukraine) 10 ans
+#### 1er prix ex-aequo: Caymi VAN REES (France) 10 ans
+- _Friedrich Kuhlau_ : Sonatine Op. 55, N°1 
+- _Claude Daquin_ : Le Coucou, Rondo 
+- _Jean-Sébastien Bach_ : Prélude et fugue en Do m 
 
-### Mischel KOSTENKO (Ukraine) 15 ans
+#### 1er prix ex-aequo: Nora KOSTENKO (Ukraine) 10 ans
+- _Jean-Sébastien Bach_ : Partita n°3 en la mineur, BWV 827:Scherzo
+- _Jean-Sébastien Bach_ : French Suite n°5 in G-major, Allemande, BWV 816
+- _Franz Schubert_ : Impromptu op.90 n°2, en mi b majeur
+- _Ihor Shamo_ : Prelude n°8, Quasi Campana 
 
-### Ulysse BURNOD (France)
+#### 1ère médaille: Mischel KOSTENKO (Ukraine) 15 ans
+- _Johannes Brahms_ : Rhapsodie en sol mineur op.79 n°2
+- _Erik Satie_ : Trois Morceaux en forme De Poire pour 4 mains
+  - Manière de commencement
+  - Lentement
+
+### Categorie Faure Debussy Rachmaninov
+
+#### Ulysse BURNOD (France)
+- _Isaac Albéniz_ : Evocacion & Triana extraits d’Iberia
+- _Sergueï Rachmaninov_ : Kreisler : Liebesfreud
+- _Samuel Barber_ : Sonate pour piano op.26 en mi b mineur
 
 Pour en savoir plus sur le Concours de Piano de Brest et l’association qui porte l’événement rendez-vous sur le site du concours : [https://www.concourspianobrest.org](https://www.concourspianobrest.org/)
