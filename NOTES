@@ -1,0 +1,1 @@
+Actuellement, le carrousel pour les images "off" est directement intégré dans les pages index. Idéalement, j’aimerais le sortir pour l’injecter comme contenu séparé, mais j’ai pas le temps en ce moment. Du coup, il faudra penser à mettre à jour themes/cdlm/layouts/index.html à un moment.

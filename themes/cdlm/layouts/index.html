@@ -13,6 +13,14 @@
   <div class="index--content">
     <h2>Les artistes</h2>
     {{- partial "carousel.html" . -}}
+    <h2>Claviers dans les Monts à la chapelle</h2>
+    <div class="carousel">
+      {{ range $index := (seq 1 9) }}
+      <div class="carousel--item">
+        <img alt="" src="/img/2025/off/{{ printf "%02d" $index }}.jpg"/>
+      </div>
+      {{ end }}
+    </div>
     <div class="index--infos">
       <div class="index--infos-about">
         <h2>Infos pratiques</h2>
