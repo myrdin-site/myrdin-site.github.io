@@ -1,0 +1,23 @@
+baseURL: https://claviersdanslesmonts.fr
+languageCode: fr
+title: Claviers Dans Les Monts
+theme: cdlm
+defaultContentLanguage: fr
+buildFuture: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  current: 2026
+  edition: "6ème"
+  date: "12 et 13 Juin 2025"
+  number: "06.07.74.56.21"
+  helloasso: https://www.helloasso.com/associations/ensemble-cobalt/collectes/festival-claviers-dans-les-monts
+  stage: false
+  theme:
+    banner_bg: "#496B92"                                                                                                             
+    banner_text: "#ffffff"                                                                                                            
+    body_text: "141E29"                                                                                                              
+    body_bg: "#F5F8FA"
+    container: "70vw" 
