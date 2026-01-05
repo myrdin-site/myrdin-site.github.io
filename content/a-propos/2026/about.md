@@ -1,6 +1,9 @@
 
-![Trio Musica Humana](/img/2025/2024/trio-musica-humana.jpg)
+![Björn Gottschall](/img/2026/2025/bjorn2.jpg)
 
-L'année dernière, nous nous sommes détendus l'esprit et le corps avec la merveilleuse musique minimaliste de Marcia Hadjimarkos, allongés sur le sol de l'église, et nous nous sommes encore plus détendus dans la Maison Cornec historique avec le bain sonore de Fanny Vantomme. Nous avons ensuite vécu les émotions les plus folles du thème des Mad Lovers de l'Ensemble Leviathan et les chansons habiles et amusantes du Trio Musica Humana avec Elisabeth Geiger. En fin, nous avons terminé dans la Cave à Jazz de Saint-Rivoal où le Phil Walter Trio a transformé le festival en une jam nocturne de musiciens incroyablement talentueux.
+Des synthés au cinéma, cette année nous explorons une fois encore de nouveaux univers du clavier – et notamment un clavier à boutons !
+Avec le jeu virtuose de l’accordéon de Maÿlis Arrat, nous revisitons de grandes œuvres classiques, souvent connues à travers leurs arrangements pour d’autres instruments.
 
-Cette année nous évoluons encore!
+Pour la première fois, le festival s’ouvre aux sonorités de la Scandinavie et des pays nordiques avec les Curious Bards. Et pour un voyage dans une toute autre direction, Saint-Rivoal devient le décor d’un tout nouveau cinéma muet en noir et blanc, comme vous ne l’avez jamais vu, accompagné en direct par Hervé Lesvenan.
+
+Venez découvrir notre programmation toujours en mouvement, pleine de surprises et de plaisirs !
