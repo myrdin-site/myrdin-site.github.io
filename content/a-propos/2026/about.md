@@ -1,9 +1,4 @@
 
-![Björn Gottschall](/img/2026/2025/bjorn2.jpg)
+![Björn Gottschall](/img/2026/2025/trait-d-esprit/3-4.png)
 
-Des synthés au cinéma, cette année nous explorons une fois encore de nouveaux univers du clavier – et notamment un clavier à boutons !
-Avec le jeu virtuose de l’accordéon de Maÿlis Arrat, nous revisitons de grandes œuvres classiques, souvent connues à travers leurs arrangements pour d’autres instruments.
-
-Pour la première fois, le festival s’ouvre aux sonorités de la Scandinavie et des pays nordiques avec les Curious Bards. Et pour un voyage dans une toute autre direction, Saint-Rivoal devient le décor d’un tout nouveau cinéma muet en noir et blanc, comme vous ne l’avez jamais vu, accompagné en direct par Hervé Lesvenan.
-
-Venez découvrir notre programmation toujours en mouvement, pleine de surprises et de plaisirs !
+Claviers dans les Monts revient pour la 6e année consécutive les 12 et 13 juin 2026 ! Les claviers seront toujours à l'honneur - et une programmation qui s'installe dans une diversité de styles : Un récital d'accordéon le vendredi soir avec la musicienne Maÿlis Arrat. Un spectacle de piano à 4 mains jonglé par le duo Paul & Max sera proposé le samedi après-midi pour un concert en famille et/ou entre ami.e.s où le public pourra apprécier du répertoire à 4 mains et plus de 8 balles dans les airs... Puis le samedi soir le festival accueille l'ensemble The Curious Bards, composé de musiciens spécialisés dans la musique baroque qui proposeront un concert de musique populaire baroque scandinave : musiques de Norvège et de Suède. Ce concert fera l'objet d'une présentation d'un instrument rarissime et rarement joué : le nyckelharpa ou kontrabasharpa, un violon composé d'un clavier ! Enfin pour terminer le festival et après la restauration sur place, un ciné-concert aura lieu à la salle des fêtes de Saint-Rivoal, transformée en cinéma pour l'occasion. Le pianiste breton Hervé Lesvenan relèvera le défi d'improviser face à l'écran en live. Soirée dansante ensuite avec David Bazin et des vinyles de choix avec les claviers pour thème bien sûr. Venez nombreuses et nombreux - mettez une croix dans l'agenda !
