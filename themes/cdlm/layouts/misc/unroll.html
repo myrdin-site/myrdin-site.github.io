@@ -1,13 +1,16 @@
 {{ define "main" }}
-  <div class="container--single">
-    <div class="container--single-content">
-      <h2>{{ .Title }}</h2>
-      {{ range .Pages.ByTitle.Reverse }}
-        {{ if le .Date .Site.Params.current }}
-          <h3>{{ .Title }}</h3>
-          {{ .Content }}
-        {{ end }}
+<div class="container--single">
+  <div class="container--single-content">
+    <h2>{{ .Title }}</h2>
+    {{ $current := .Site.Params.current }}
+    {{ $pages := .RegularPages }}
+    {{ $sorted := sort $pages "Params.year" "desc" }}
+    {{ range $sorted }}
+      {{ if le .Params.year $current }}
+        <h3>{{ .Title }}</h3>
+        {{ .Content }}
       {{ end }}
-    </div>
+    {{ end }}
   </div>
+</div>
 {{ end }}

@@ -34,7 +34,7 @@
   />
   <!--SASS Configuration-->
   <!--{{ $sass := resources.Get "scss/main.scss" }} {{ $style := $sass |
-  resources.ToCSS (dict "enableSourceMap" true) | resources.Fingerprint }}-->
+  css.Sass (dict "enableSourceMap" true) | resources.Fingerprint }}-->
   {{ $options := dict "targetPath" "css/style.css" "transpiler" "dartsass" "vars" .Site.Params.theme }}
   {{ $css := resources.Get "scss/main.scss" | css.Sass $options }}
   <link

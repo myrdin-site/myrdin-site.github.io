@@ -1,5 +1,5 @@
 {
-  description = "SQRL  setup (python jax cuda)";
+  description = "hugo and dart";
   
   inputs = {
     nixpkgs = {
