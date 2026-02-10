@@ -14,7 +14,68 @@
     text-align: center;
   }
 }
-
 .carousel--item {
-  padding: 0.4rem;
+  padding: 0;
+  img {
+    display: block;
+    width:100%;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+.slick-slide {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.carousel--full-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.8);
+  z-index: 9999;
+}
+
+.carousel--full-overlay.is-open {
+  display: block;
+}
+
+.carousel--full img {
+  position: relative;
+  width: 90%;
+  max-width:1200px;
+  margin: 50px auto;
+  height: auto;
+  display: block;
+}
+
+.carousel--full .slick-prev,
+.carousel--full .slick-next {
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+}
+
+.carousel--full .slick-prev {
+  left: 10px;
+}
+
+.carousel--full .slick-prev-icon, .carousel--full .slick-next-icon {
+  color:white;
+}
+
+.carousel--full .slick-next {
+  right: 10px;
+}
+
+.carousel--full .slick-dots {
+  bottom: -40px;
+  z-index: 10;
+}
+
+.carousel--full .slick-dots li button .slick-dot-icon {
+  color: white;
+  opacity: 0.6;
 }
