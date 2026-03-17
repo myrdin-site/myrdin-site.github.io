@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	$('.carousel').slick({
 		dots: true,
-	  infinite: false,
+	  infinite: true,
 	  speed: 300,
 	  touchThreshold: 10,
 	  slidesToShow: 3,
@@ -9,31 +9,26 @@ $(document).ready(function() {
 	  centerMode: false,
 	  variableWidth:false,
 	  adaptiveHeight:true,
-		// responsive: [
-		// 	{
-		// 		breakpoint: 1025,
-		//     settings: {
-		// 			dots: true,
-		// 			infinite: true,
-		// 			slidesToShow: 2,
-		// 			slidesToScroll: 1
-		//     }
-		//   },
-		//   {
-		//   	breakpoint: 768,
-		//     settings: {
-		// 			dots: true,
-		// 			infinite: true,
-		// 			slidesToShow: 1,
-		// 			slidesToScroll: 1
-		//     }
-		//   }
-		// ]
+		responsive: [
+			{
+				breakpoint: 1025,
+		    settings: {
+					slidesToShow: 2
+		    }
+		  },
+		  {
+		  	breakpoint: 768,
+		    settings: {
+					slidesToShow: 1
+		    }
+		  }
+		]
 	});
 
 		$('.carousel--full').slick({
 	  slidesToShow: 1,
 	  slidesToScroll: 1,
+	  infinite: true,
 	  arrows: true,
 	  dots: true,
 	  adaptiveHeight: true,

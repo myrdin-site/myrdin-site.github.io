@@ -23,9 +23,25 @@
           system = "riscv64-linux"; 
         };
       };
+      #hugoVersion = "0.157.0";
       modules = pkgs: with pkgs; [ 
-        dart-sass
         hugo
+        dart-sass
+        # (
+        #   hugo.overrideAttrs (oldAttrs:
+        #     {
+        #       version = hugoVersion;
+        #       vendorHash = "sha256-StGdZ1FP6906jFbqoYQgrbEOx1YPCsqE+01ITQgtaEU=";
+        #       src = pkgs.fetchFromGitHub {
+        #         owner = "gohugoio";
+        #         repo = "hugo";
+        #         tag = "v{$hugoVersion}";
+        #         hash = "sha256-7/zrJdoJVDVHt/2qKPkfrxjxMMpB2F2i0fCXZLkd7gw=";
+        #       };
+        #       nativeBuildInputs = (oldAttrs.nativeBuildInputs or []) ++ [ git ];
+        #     }
+        #   )
+        # )
       ];
     in {
       devShells = {
