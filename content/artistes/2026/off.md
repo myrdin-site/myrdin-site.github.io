@@ -1,8 +1,8 @@
 ---
 title: Concert pour les tout-petits (0-2 ans)
 cover: /img/2026/off/3-4.jpg
-date: 2026-06-07T10:00:00
-place: Maison Cornec
+date: 2026-06-07T11:00:00
+place: Espace Frédéric Le Guyader, Brasparts (29)
 description: Festival off 
 type: misc
 layout: artiste
@@ -11,6 +11,8 @@ layout: artiste
 Ce concert pour 10 doigts et petites oreilles propose le son doux de plusieurs instruments à claviers ; piano, clavicorde, mélodica autour d'une brève histoire de l'eau : la rivière, la mer, la pluie.
 
 Entre conte et petit concert, venez accompagner votre tout petit dans un voyage à la découverte du monde de l'eau et des claviers.
+
+Aussi, raconte tapis et moment de lecture proposés par la bibliothèque de Brasparts.
 
 **Prix Libre**
 
