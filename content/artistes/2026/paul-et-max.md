@@ -2,7 +2,7 @@
 title: "Compagnie Eliane : Paul & Max"
 cover: /img/2026/paul-et-max/3-4-1.jpg
 date: 2026-06-13T15:00:00
-place: Hangar de la salle des fêtes
+place: Hangar de l'écomusée
 description: Spectacle jonglé
 type: misc
 layout: artiste
